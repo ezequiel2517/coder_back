@@ -19,7 +19,8 @@ module.exports = class Contenedor {
             catch (error) {
                 console.log("ERROR: No se pudo guardar el nuevo item.");
             }
-            console.log("WARNING: Item guardado con exito.")
+            console.log("WARNING: Item guardado con exito.");
+            return maxId;
         }
     
         //Devuelve undefined si no existe el item con el id dado.
@@ -67,5 +68,13 @@ module.exports = class Contenedor {
         async getMaxId() {
             const items = await this.getAll();
             return Math.max(...items.map(e => e.id));
+        }
+
+        //Setea el nuevo arreglo con el item del id dado modificado.
+        async modify(item) {
+            await this.deleteById(item.id);
+            const items = await this.getAll();
+            items.push(item);
+            await Contenedor.fs.promises.writeFile(`./${this.filename}`, JSON.stringify(items, null, 2));
         }
     }
