@@ -1,0 +1,30 @@
+html
+
+head
+    title Administrador de Productos
+    link(href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet")
+    script(src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js")
+
+body
+    header(class="d-flex row justify-content-center text-center my-5 w-100")
+        h1 Lista de Productos
+        a(href="/" class="btn btn-primary w-auto") Ir a Administrador de Productos
+    div(class="container w-75")
+        if (productos.length===0)
+            div(class="alert alert-danger" role="alert") No hay productos disponibles.
+        else
+            table(class="table")
+                thead
+                    tr
+                        th(scope="col") Id
+                        th(scope="col") Title
+                        th(scope="col") Price
+                        th(scope="col") Thumbnail
+                tbody
+                    each producto in productos
+                        <tr>
+                            th(scope="row") #{producto.id}
+                            td #{producto.title}
+                            td #{producto.price}
+                            td
+                                img(src=producto.thumbnail alt="foto de productos")
