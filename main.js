@@ -10,20 +10,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 //Configuración de engine para render
-const handlebars = require("express-handlebars");
-
-app.engine("hbs", handlebars.engine({
-    extname: "hbs",
-    defaultLayout: "main.hbs",
-    layoutsDir: __dirname + "/views",
-    helpers: {
-        esVacio: function (productos) {
-            return productos.length === 0;
-        }
-    }
-}))
-app.set("views", "./views");
-app.set("view engine", "hbs");
+app.set("view engine", "ejs");
 
 const PORT = 3000;
 
@@ -36,8 +23,11 @@ app.get("/", (req, res) => {
     res.render("formulario", {});
 });
 
-app.get("/productos", async (req, res) => {
-    res.render("lista", { productos: await productos.getAll() });
+app.get('/productos', async (req, res) => {
+    const productosRender = await productos.getAll();
+    res.render('lista', {
+        productos: productosRender
+    });
 });
 
 app.post("/productos", async (req, res) => {

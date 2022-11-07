@@ -16,11 +16,11 @@
         <a href="/" class="btn btn-primary w-auto">Ir a Administrador de Productos</a>
     </header>
     <div class="container w-75">
-        {{#if (esVacio productos)}}
+        <% if (productos.length===0) { %>
         <div class="alert alert-danger" role="alert">
             No hay productos disponibles.
         </div>
-        {{else}}
+        <% } else { %>
         <table class="table">
             <thead>
                 <tr>
@@ -30,20 +30,20 @@
                     <th> Thumbnail </th>
                 </tr>
             <tbody>
-                {{#each productos}}
+                <% productos.forEach( (producto) => { %>
                 <tr>
-                    <th scope="row">{{id}}</th>
-                    <td> {{title}} </td>
-                    <td> {{price}} </td>
+                    <th scope="row"> <%= producto.id %> </th>
+                    <td> <%= producto.title %> </td>
+                    <td> <%= producto.price %> </td>
                     <td>
-                        <img src={{thumbnail}} alt="foto de productos">
+                        <img src=<%= producto.thumbnail %> alt="foto de productos">
                     </td>
                 </tr>
-                {{/each}}
+                <% }); %>
             </tbody>
             </thead>
         </table>
-        {{/if}}
+        <% } %>
     </div>
 </body>
 
