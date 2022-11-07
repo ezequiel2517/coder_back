@@ -10,8 +10,20 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 //Configuración de engine para render
+const handlebars = require("express-handlebars");
+
+app.engine("hbs", handlebars.engine({
+    extname: "hbs",
+    defaultLayout: "main.hbs",
+    layoutsDir: __dirname + "/views",
+    helpers: {
+        esVacio: function (productos) {
+            return productos.length === 0;
+        }
+    }
+}))
 app.set("views", "./views");
-app.set("view engine", "pug");
+app.set("view engine", "hbs");
 
 const PORT = 3000;
 
@@ -25,26 +37,10 @@ app.get("/", (req, res) => {
 });
 
 app.get("/productos", async (req, res) => {
-    res.render("lista", {productos: await productos.getAll()});
+    res.render("lista", { productos: await productos.getAll() });
 });
 
 app.post("/productos", async (req, res) => {
     await productos.save(req.body);
     res.render("formulario", {});
 });
-
-// routeProductos.get("/:id", async (req, res) => {
-//     const id = Number(req.params.id);
-//     const producto = await productos.getById(id);
-//     if (producto)
-//         res.json(producto);
-//     else {
-//         res.status(404);
-//         res.json({ error: `No existe el producto con el id: ${id}` });
-//     }
-// });
-
-// routeProductos.post("/", async (req, res) => {
-//     console.log(req.body);
-//     res.json({ id:  });
-// });
