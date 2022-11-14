@@ -2,13 +2,13 @@
   {
     "title": "123",
     "price": "123",
-    "thumbnail": "123",
+    "thumbnail": "https://cdn-icons-png.flaticon.com/256/8873/8873182.png",
     "id": 1
   },
   {
-    "title": "Ezequiel",
-    "price": "Dutra",
-    "thumbnail": "123",
+    "title": "asd",
+    "price": "asda",
+    "thumbnail": "https://cdn-icons-png.flaticon.com/256/8873/8873182.png",
     "id": 2
   }
 ]
