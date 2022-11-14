@@ -48,14 +48,14 @@
         <div class="col-6">
             <h2 class="my-3 text-center">Chat de Usuarios</h2>
             <div style="height: 350px">
-                <form action="/productos" method="post" class="h-100 position-relative">
+                <form onsubmit="return addMensaje(this)" class="h-100 position-relative">
                     <div class="mb-3">
                         <label for="email" class="form-label"> Email </label>
                         <input type="email" class="form-control" id="email" name="email" required="required">
                     </div>
                     <div class="mb-3">
-                        <label for="mansaje" class="form-label"> Mensaje </label>
-                        <input type="text" class="form-control" id="mansaje" name="mansaje" required="required">
+                        <label for="mensaje" class="form-label"> Mensaje </label>
+                        <input type="text" class="form-control" id="mensaje" name="mensaje" required="required">
                     </div>
                     <button type="submit" class="btn btn-primary position-absolute bottom-0"> Enviar </button>
                 </form>
@@ -66,11 +66,7 @@
                         <th> Usuario </th>
                         <th> Mensaje </th>
                     </tr>
-                <tbody>
-                    <tr>
-                        <td> title </td>
-                        <td> price </td>
-                    </tr>
+                <tbody id="mensajes">
                 </tbody>
                 </thead>
             </table>

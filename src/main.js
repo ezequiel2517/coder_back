@@ -1,6 +1,7 @@
 //Persistencia de productos en *.txt
-const Contenedor = require("../contenedor.js");
-const productos = new Contenedor("productos.txt");
+const Contenedor = require("./contenedor");
+const productos = new Contenedor("./src/productos.txt");
+const chat = new Contenedor("./src/chat.txt");
 
 //Configuración de servidor Express
 const express = require("express");
@@ -32,11 +33,18 @@ const server = httpServer.listen(PORT, () => {
 io.on("connection", async (socket) => {
     console.log("Nuevo cliente conectado.")
 
-    socket.emit("nuevo_cliente", await productos.getAll());
+    socket.emit("nuevo_cliente_productos", await productos.getAll());
+
+    socket.emit("nuevo_cliente_chat", await chat.getAll());
 
     socket.on("addProducto", (data) =>  {
         productos.save(data);
         io.sockets.emit("newProducto", data);
+    });
+
+    socket.on("addMensaje", (data) =>  {
+        chat.save(data);
+        io.sockets.emit("newMensaje", data);
     });
 
 });
