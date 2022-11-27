@@ -1,7 +1,8 @@
-//Persistencia de productos en *.txt
-const Contenedor = require("./contenedor");
-const productos = new Contenedor("./src/productos.txt");
-const chat = new Contenedor("./src/chat.txt");
+//Persistencia de productos en SQL
+const options = require('./connection/options.js')
+const Contenedor_SQL = require('./contenedor/contenedor_sql.js')
+const chat = new Contenedor_SQL('chat', options.sqlite3);
+const productos = new Contenedor_SQL('productos', options.mysql);
 
 //Configuración de servidor Express
 const express = require("express");

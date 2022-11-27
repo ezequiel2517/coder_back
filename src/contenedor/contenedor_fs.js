@@ -14,7 +14,7 @@ module.exports = class Contenedor {
             item.id = maxId;
             items.push(item);
             try {
-                await Contenedor.fs.promises.writeFile(`./${this.filename}`, JSON.stringify(items, null, 2))
+                await Contenedor.fs.promises.writeFile(`../db/${this.filename}`, JSON.stringify(items, null, 2))
             }
             catch (error) {
                 console.log("ERROR: No se pudo guardar el nuevo item.");
@@ -33,7 +33,7 @@ module.exports = class Contenedor {
         async getAll() {
             let items = [];
             try {
-                items = JSON.parse(await Contenedor.fs.promises.readFile(`./${this.filename}`, "utf-8"));
+                items = JSON.parse(await Contenedor.fs.promises.readFile(`../db/${this.filename}`, "utf-8"));
             }
             catch (error) {
                 console.log("WARNING: El archivo no existe.");
@@ -47,7 +47,7 @@ module.exports = class Contenedor {
             if (await this.getById(id))
                 items = items.filter(e => e.id !== id);
             try {
-                await Contenedor.fs.promises.writeFile(`./${this.filename}`, JSON.stringify(items, null, 2));
+                await Contenedor.fs.promises.writeFile(`../db/${this.filename}`, JSON.stringify(items, null, 2));
             } catch (error) {
                 console.log("ERROR: No se pudo borrar el item.")
             }
@@ -57,7 +57,7 @@ module.exports = class Contenedor {
         //Setea el archivo vacío. Si no existe, lo crea. 
         async deleteAll() {
             try {
-                await Contenedor.fs.promises.writeFile(`./${this.filename}`, JSON.stringify([], null, 2));
+                await Contenedor.fs.promises.writeFile(`../db/${this.filename}`, JSON.stringify([], null, 2));
             } catch (error) {
                 console.log("ERROR: No se pudieron borrar todos los items.")
             }
@@ -75,6 +75,6 @@ module.exports = class Contenedor {
             await this.deleteById(item.id);
             const items = await this.getAll();
             items.push(item);
-            await Contenedor.fs.promises.writeFile(`./${this.filename}`, JSON.stringify(items, null, 2));
+            await Contenedor.fs.promises.writeFile(`../db/${this.filename}`, JSON.stringify(items, null, 2));
         }
     }
