@@ -11,4 +11,4 @@ const productoSchema = new mongoose.Schema({
     timestamp: { type: Number }
 });
 
-export const productoModel = mongoose.model(productoCollection, productoSchema);
+export const model = mongoose.model(productoCollection, productoSchema);
