@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-class Contenedor {
+export class Contenedor {
     constructor(model) {
         this.model = model;
     }
