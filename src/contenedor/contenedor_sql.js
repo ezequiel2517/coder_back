@@ -1,9 +1,6 @@
 //Importo knex
 const knex = require('knex');
 
-//Importo options
-const options = require('../connection/options.js');
-
 class Contenedor_SQL {
     constructor(table, options) {
         this.connection = knex(options);
