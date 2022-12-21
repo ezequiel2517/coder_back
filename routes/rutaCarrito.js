@@ -3,7 +3,7 @@ import express from "express";
 const rutaCarrito = express.Router();
 
 //Importo persistencia
-import { Contenedor } from "../persistence/contenedor.js";
+import { Contenedor } from "../persistence/contenedorFS.js";
 const carritos = new Contenedor("persistence/carritos.txt");
 
 //Importo FileSystem

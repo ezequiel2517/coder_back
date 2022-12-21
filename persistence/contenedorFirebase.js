@@ -13,7 +13,8 @@ export class Contenedor {
         try {
             const db = admin.firestore();
             const model = db.collection(this.model);
-            await model.add(item);
+            const docRef = await model.add(item);
+            return docRef.id;
         }
         catch (error) {
             console.log(error);
@@ -24,7 +25,11 @@ export class Contenedor {
         try {
             const db = admin.firestore();
             const model = db.collection(this.model);
-            return await model.get();
+            const res = await model.get();
+            const data = res.docs;
+            return data.map((item) => {
+                return { ...item.data(), id: item.id };
+            });
         } catch (error) {
             console.log(error);
         }
@@ -45,6 +50,7 @@ export class Contenedor {
             const db = admin.firestore();
             const model = db.collection(this.model);
             await model.doc(id).delete();
+            return id;
         } catch (error) {
             console.log(error);
         }
@@ -66,5 +72,6 @@ export class Contenedor {
         const db = admin.firestore();
         const model = db.collection(this.model);
         await model.doc(id).update(item);
+        return id;
     }
 }

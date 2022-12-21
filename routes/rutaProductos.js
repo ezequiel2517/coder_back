@@ -3,8 +3,8 @@ import express from "express";
 const rutaProductos = express.Router();
 
 //Importo persistencia
-import { Contenedor } from "../persistence/contenedor.js";
-const productos = new Contenedor("persistence/productos.txt");
+import { ProductoDAOFirebase } from "../daos/productoDAOFirebase.js";
+const productos = new ProductoDAOFirebase();
 
 //Seteo acceso de administrador (solución TEMPORAL)
 const ADMIN = true;
@@ -12,7 +12,7 @@ const ADMIN = true;
 //Endpoints
 //Obtener producto por id
 rutaProductos.get("/:id", async (req, res) => {
-    const idProducto = Number(req.params.id);
+    const idProducto = req.params.id;
     res.json(await productos.getById(idProducto));
 });
 
@@ -41,7 +41,7 @@ rutaProductos.post("/", async (req, res) => {
 //Actualizar producto por id
 rutaProductos.put("/:id", async (req, res) => {
     if (ADMIN) {
-        const idProducto = Number(req.params.id);
+        const idProducto = req.params.id;
         const producto = req.body.producto;
         const updateProducto = { ...producto, id: idProducto };
         await productos.modify(updateProducto);
@@ -60,7 +60,7 @@ rutaProductos.put("/:id", async (req, res) => {
 //Elimino producto por id
 rutaProductos.delete("/:id", async (req, res) => {
     if (ADMIN) {
-        const idProducto = Number(req.params.id);
+        const idProducto = req.params.id;
         await productos.deleteById(idProducto);
         res.json({
             res: `Producto de ID ${idProducto} eliminado con éxito.`
