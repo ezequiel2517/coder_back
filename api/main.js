@@ -7,6 +7,13 @@ app.use(express.urlencoded({ extended: true }));
 
 const PORT = 8080;
 
+//Inicializar Firebase
+import admin from "firebase-admin";
+import serviceAccount from "../persistence/serviceAccount.js"
+admin.initializeApp({
+    credential: admin.credential.cert(serviceAccount)
+});
+
 //Levanto servidor en puerto PORT
 const server = app.listen(PORT, (req, res) => {
     console.log(`Servidor levantado en puerto ${server.address().port}`);

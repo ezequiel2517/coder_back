@@ -1,11 +1,7 @@
 import admin from "firebase-admin";
-import serviceAccount from "./serviceAccount.js";
 
 export class Contenedor {
     constructor(model) {
-        admin.initializeApp({
-            credential: admin.credential.cert(serviceAccount)
-        });
         this.model = model;
     }
 
@@ -39,7 +35,8 @@ export class Contenedor {
         try {
             const db = admin.firestore();
             const model = db.collection(this.model);
-            return await model.doc(id).get();
+            const res = await model.doc(id).get();
+            return {...res.data(), id}; 
         } catch (error) {
             console.log(error);
         }
