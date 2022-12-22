@@ -1,7 +1,9 @@
 //Persistencia de productos en SQL
-const options = require('./connection/options.js')
-const Contenedor_SQL = require('./contenedor/contenedor_sql.js')
-const chat = new Contenedor_SQL('chat', options.sqlite3);
+const options = require('./connection/options.js');
+const Contenedor_SQL = require('./contenedor/contenedor_sql.js');
+const Contenedor_Firebase = require("./contenedor/contenedor_firebase.js")
+
+const chat = new Contenedor_Firebase("mensajes");
 const productos = new Contenedor_SQL('productos', options.mysql);
 
 //Configuración de servidor Express
