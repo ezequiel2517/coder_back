@@ -17,6 +17,28 @@ const io = new ioServer(httpServer);
 const publicRoot = "./public";
 const PORT = 3000;
 
+//Iniciar conexión SQL
+const initialize = require("./connection/initialize");
+
+//Normalizer
+const { normalize, schema } = require('normalizr');
+
+//Faker
+const faker = require('faker');
+faker.locale = "es";
+
+app.get('/api/productos-test', (req, res) => {
+    const productos = [];
+    for (let i = 0; i < 5; i++) {
+        productos.push({
+            thumbnail: faker.image.imageUrl(),
+            title: faker.commerce.product(),
+            price: faker.commerce.price()
+        });
+    }
+    res.json(productos);
+});
+
 //Carpeta public visible
 app.use(express.static(publicRoot));
 
@@ -27,8 +49,28 @@ app.get("/", (req, res) => {
 
 //Levanto servidor en puerto PORT
 const server = httpServer.listen(PORT, () => {
+    initialize;
     console.log(`Server escuchando en puerto ${server.address().port}`)
 })
+
+//Normalizer Chat
+const autorSchema = new schema.Entity('autor', {}, { idAttribute: 'email' });
+
+const mensajeSchema = new schema.Entity('post', {
+    autor: autorSchema
+}, { idAttribute: 'id' });
+
+const chatSchema = new schema.Entity('posts', {
+    mensajes: [mensajeSchema]
+}, { idAttribute: 'id' });
+
+const getChatNormalizer = async () => {
+    const mensajes = await chat.getAll();
+    return normalize({
+        id: 'mensajes',
+        mensajes: mensajes,
+    }, chatSchema);
+};
 
 //Websockets
 io.on("connection", async (socket) => {
@@ -36,7 +78,7 @@ io.on("connection", async (socket) => {
 
     socket.emit("nuevo_cliente_productos", await productos.getAll());
 
-    socket.emit("nuevo_cliente_chat", await chat.getAll());
+    socket.emit("nuevo_cliente_chat", await getChatNormalizer());
 
     socket.on("addProducto", (data) =>  {
         productos.save(data);

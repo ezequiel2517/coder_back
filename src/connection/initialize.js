@@ -16,7 +16,12 @@ const connectionProductos = knex(options.mysql);
         await connectionChat.schema.createTable('chat', (table) => {
             table.increments('id').primary();
             table.string('mensaje', 256).notNullable();
+            table.string('nombre', 256).notNullable();
+            table.string('apellido', 256).notNullable();
+            table.string('alias', 256).notNullable();
+            table.string('avatar', 256).notNullable();
             table.string('email', 256).notNullable();
+            table.integer("edad").notNullable();
         })
     }
     //Productos

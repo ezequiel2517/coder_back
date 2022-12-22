@@ -22,6 +22,17 @@ const renderProducto = (producto) => {
 
 }
 
+//Esquemas mensajes
+const autorSchema = new normalizr.schema.Entity('autor', {}, { idAttribute: 'email' });
+
+const mensajeSchema = new normalizr.schema.Entity('post', {
+    autor: autorSchema
+}, { idAttribute: 'id' });
+
+const mensajesSchema = new normalizr.schema.Entity('posts', {
+    mensajes: [mensajeSchema]
+}, { idAttribute: 'id' });
+
 const renderMensaje = (data) => {
     const tableMensajes = document.querySelector("#mensajes");
     const rowMensaje = document.createElement("tr");
@@ -29,6 +40,26 @@ const renderMensaje = (data) => {
     const email = document.createElement("td");
     email.innerHTML = data.email;
     rowMensaje.appendChild(email);
+
+    const nombre = document.createElement("td");
+    nombre.innerHTML = data.nombre;
+    rowMensaje.appendChild(nombre);
+
+    const apellido = document.createElement("td");
+    apellido.innerHTML = data.apellido;
+    rowMensaje.appendChild(apellido);
+
+    const edad = document.createElement("td");
+    edad.innerHTML = data.edad;
+    rowMensaje.appendChild(edad);
+
+    const alias = document.createElement("td");
+    alias.innerHTML = data.alias;
+    rowMensaje.appendChild(alias);
+
+    const avatar = document.createElement("td");
+    avatar.innerHTML = data.avatar;
+    rowMensaje.appendChild(avatar);
 
     const mensaje = document.createElement("td");
     mensaje.innerHTML = data.mensaje;
@@ -55,10 +86,20 @@ const addProducto = () => {
 const addMensaje = () => {
     const mensaje = document.querySelector("#mensaje").value;
     const email = document.querySelector("#email").value;
+    const nombre = document.querySelector("#nombre").value;
+    const apellido = document.querySelector("#apellido").value;
+    const edad = document.querySelector("#edad").value;
+    const alias = document.querySelector("#alias").value;
+    const avatar = document.querySelector("#avatar").value;
 
     socket.emit("addMensaje", {
         mensaje,
-        email
+        email,
+        nombre,
+        apellido,
+        alias,
+        avatar,
+        edad
     })
 
     return false;
@@ -71,7 +112,17 @@ socket.on("nuevo_cliente_productos", (productos) => {
 });
 
 socket.on("nuevo_cliente_chat", (chat) => {
-    chat.forEach(mensaje => {
+    const tamanioNormalizado = JSON.stringify(chat).length;
+    const mensajesDesnormalizados = normalizr.denormalize(chat.result, mensajesSchema, chat.entities);
+    const tamanioDesnormalizado = JSON.stringify(mensajesDesnormalizados).length;
+    console.log(tamanioNormalizado);
+    console.log(tamanioDesnormalizado);
+    let porcentaje = parseInt((1-tamanioNormalizado/tamanioDesnormalizado)*100);
+    porcentaje = porcentaje || 0;
+    document.getElementById("compresion").innerText = "Comprensión: " + porcentaje + "%";
+
+    console.log(mensajesDesnormalizados)
+    mensajesDesnormalizados.mensajes.forEach(mensaje => {
         renderMensaje(mensaje);
     })
 });

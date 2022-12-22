@@ -8,6 +8,7 @@
     <title>Administrador de Productos</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/normalizr@3.6.1/dist/normalizr.browser.min.js"></script>
     <script src="/socket.io/socket.io.js"></script>
     <script src="index.js"></script>
 </head>
@@ -47,13 +48,34 @@
         </div>
         <div class="col-6">
             <h2 class="my-3 text-center">Chat de Usuarios</h2>
-            <div style="height: 350px">
+            <h3 class="my-3 text-center" id="compresion"></h3>
+            <div style="height: 600px">
                 <form onsubmit="return addMensaje(this)" class="h-100 position-relative">
-                    <div class="mb-3">
+                    <div class="mb-1">
                         <label for="email" class="form-label"> Email </label>
                         <input type="email" class="form-control" id="email" name="email" required="required">
                     </div>
-                    <div class="mb-3">
+                    <div class="mb-1">
+                        <label for="nombre" class="form-label"> Nombre </label>
+                        <input type="text" class="form-control" id="nombre" name="nombre" required="required">
+                    </div>
+                    <div class="mb-1">
+                        <label for="apellido" class="form-label"> Apellido </label>
+                        <input type="text" class="form-control" id="apellido" name="apellido" required="required">
+                    </div>
+                    <div class="mb-1">
+                        <label for="edad" class="form-label"> Edad </label>
+                        <input type="text" class="form-control" id="edad" name="edad" required="required">
+                    </div>
+                    <div class="mb-1">
+                        <label for="alias" class="form-label"> Alias </label>
+                        <input type="text" class="form-control" id="alias" name="alias" required="required">
+                    </div>
+                    <div class="mb-1">
+                        <label for="avatar" class="form-label"> Avatar </label>
+                        <input type="text" class="form-control" id="avatar" name="avatar" required="required">
+                    </div>
+                    <div class="mb-1">
                         <label for="mensaje" class="form-label"> Mensaje </label>
                         <input type="text" class="form-control" id="mensaje" name="mensaje" required="required">
                     </div>
@@ -63,7 +85,12 @@
             <table class="table mt-3">
                 <thead>
                     <tr>
-                        <th> Usuario </th>
+                        <th> Email </th>
+                        <th> Nombre </th>
+                        <th> Apellido </th>
+                        <th> Edad </th>
+                        <th> Alias </th>
+                        <th> Avatar </th>
                         <th> Mensaje </th>
                     </tr>
                 <tbody id="mensajes">
