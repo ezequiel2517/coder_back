@@ -1,95 +1,84 @@
-//Persistencia de productos en SQL
-const options = require('./connection/options.js');
+//Iniciar connection SQL
+const initialize = require("./connection/initializeSQL.js");
+initialize;
+
+//Persistencia en SQL
+const { sqlite3: configSQL } = require('./connection/options.js');
 const Contenedor_SQL = require('./contenedor/contenedor_sql.js');
-const Contenedor_Firebase = require("./contenedor/contenedor_firebase.js")
+const mensajes = new Contenedor_SQL("mensajes", configSQL);
+const productos = new Contenedor_SQL('productos', configSQL);
 
-const chat = new Contenedor_Firebase("mensajes");
-const productos = new Contenedor_SQL('productos', options.mysql);
-
-//Configuración de servidor Express
+//Configuracion de servidor Express
 const express = require("express");
 const app = express();
-const {Server : HttpServer} = require("http");
-const {Server : ioServer} = require("socket.io");
-const { Socket } = require("dgram");
+const { Server: HttpServer } = require("http");
+const { Server: ioServer } = require("socket.io");
+const PORT = 3000;
 
+//Para poder usar JSON
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+
+//Configuracion de websockets
 const httpServer = new HttpServer(app);
 const io = new ioServer(httpServer);
 
-const publicRoot = "./public";
-const PORT = 3000;
+//Configuracion para sesiones de usuarios
+const cookieParser = require("cookie-parser");
+const session = require("express-session");
+const MongoStore = require("connect-mongo");
+const SECRET = 'secret';
 
-//Iniciar conexión SQL
-const initialize = require("./connection/initialize");
+app.use(cookieParser());
+app.use(session({
+    store: MongoStore.create({
+        mongoUrl: "mongodb+srv://ezequiel:ezequiel@cluster0.v5hpbf0.mongodb.net/sessions?retryWrites=true&w=majority",
+        mongoOptions: { useNewUrlParser: true, useUnifiedTopology: true },
+        ttl: 60
+    }),
+    secret: SECRET,
+    resave: false,
+    saveUninitialized: false
+}));
 
-//Normalizer
-const { normalize, schema } = require('normalizr');
+//Configuración de engine para render
+const path = require("path");
+app.set('views', path.join(__dirname, '../src/views'));
+app.set('view engine','ejs');
 
-//Faker
-const faker = require('faker');
-faker.locale = "es";
+//Importar rutas
+const routeApi = require("./routers/api.js");
+app.use(routeApi);
+const routeHome = require("./routers/home.js")
+app.use(routeHome);
+const routeAuth = require("./routers/auth.js");
+app.use(routeAuth);
 
-app.get('/api/productos-test', (req, res) => {
-    const productos = [];
-    for (let i = 0; i < 5; i++) {
-        productos.push({
-            thumbnail: faker.image.imageUrl(),
-            title: faker.commerce.product(),
-            price: faker.commerce.price()
-        });
-    }
-    res.json(productos);
-});
-
-//Carpeta public visible
-app.use(express.static(publicRoot));
-
-//Index en ruta principal
-app.get("/", (req, res) => {
-    res.send("index.html", {root : publicRoot});
-})
-
-//Levanto servidor en puerto PORT
+//Levantar servidor en puerto PORT
 const server = httpServer.listen(PORT, () => {
-    initialize;
     console.log(`Server escuchando en puerto ${server.address().port}`)
 })
 
-//Normalizer Chat
-const autorSchema = new schema.Entity('autor', {}, { idAttribute: 'email' });
-
-const mensajeSchema = new schema.Entity('post', {
-    autor: autorSchema
-}, { idAttribute: 'id' });
-
-const chatSchema = new schema.Entity('posts', {
-    mensajes: [mensajeSchema]
-}, { idAttribute: 'id' });
-
-const getChatNormalizer = async () => {
-    const mensajes = await chat.getAll();
-    return normalize({
-        id: 'mensajes',
-        mensajes: mensajes,
-    }, chatSchema);
-};
-
 //Websockets
 io.on("connection", async (socket) => {
-    console.log("Nuevo cliente conectado.")
+    console.log("Nuevo cliente conectado.");
 
+    /*Cuando hay un usuario nuevo se le envian 
+    los productos y mensajes (normalizados)*/
     socket.emit("nuevo_cliente_productos", await productos.getAll());
 
-    socket.emit("nuevo_cliente_chat", await getChatNormalizer());
+    const getChatNormalizer = require("./normalizr/mensajes.js");
+    socket.emit("nuevo_cliente_chat", getChatNormalizer(await mensajes.getAll()));
 
-    socket.on("addProducto", (data) =>  {
+    /*Cuando se agrega un nuevo 
+    usuario o mensaje se persiste*/
+    socket.on("addProducto", (data) => {
         productos.save(data);
         io.sockets.emit("newProducto", data);
     });
 
-    socket.on("addMensaje", (data) =>  {
-        chat.save(data);
+    socket.on("addMensaje", (data) => {
+        mensajes.save(data);
         io.sockets.emit("newMensaje", data);
     });
-
 });
