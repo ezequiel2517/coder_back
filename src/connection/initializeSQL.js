@@ -38,6 +38,7 @@ const connectionSQL = knex(options.sqlite3);
 
 //Inicio conexiones Mongo Atlas
 const mongoose = require("mongoose");
+mongoose.set('strictQuery', true);
 
 (async () => {
     mongoose.connect(options.mongoAtlas.connectionString, { serverSelectionTimeoutMS: 5000, })

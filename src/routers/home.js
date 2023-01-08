@@ -2,10 +2,9 @@ const { Router } = require("express");
 const routeHome = new Router();
 
 routeHome.get("/home", (req, res) => {
-    const usuario = req.session.usuario;
-    usuario
+    req.isAuthenticated()
     ?
-        res.render("home", { usuario: usuario.toUpperCase() })
+        res.render("home", { usuario: req.user.username.toUpperCase() })
     :
         res.redirect("/login");
 });

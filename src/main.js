@@ -8,10 +8,6 @@ const Contenedor_SQL = require('./contenedor/contenedor_sql.js');
 const mensajes = new Contenedor_SQL("mensajes", configSQL);
 const productos = new Contenedor_SQL('productos', configSQL);
 
-//Persistencia de usuarios
-const Contenedor_Atlas = require("./contenedor/contenedor_Atlas/contenedor_Atlas.js");
-const usuarios = new Contenedor_Atlas("../schemas/schemaUsuario.js");
-
 //Configuracion de servidor Express
 const express = require("express");
 const app = express();
@@ -45,18 +41,22 @@ app.use(session({
     saveUninitialized: false
 }));
 
+const passport = require("passport");
+app.use(passport.initialize());
+app.use(passport.session());
+
 //Configuración de engine para render
 const path = require("path");
 app.set('views', path.join(__dirname, '../src/views'));
 app.set('view engine','ejs');
 
 //Importar rutas
+const routeAuth = require("./routers/auth.js");
+app.use(routeAuth);
 const routeApi = require("./routers/api.js");
 app.use(routeApi);
 const routeHome = require("./routers/home.js")
 app.use(routeHome);
-const routeAuth = require("./routers/auth.js");
-app.use(routeAuth);
 
 //Levantar servidor en puerto PORT
 const server = httpServer.listen(PORT, () => {
