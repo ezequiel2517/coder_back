@@ -2,11 +2,15 @@
 const initialize = require("./connection/initializeSQL.js");
 initialize;
 
-//Persistencia en SQL
+//Persistencia de mensajes y productos
 const { sqlite3: configSQL } = require('./connection/options.js');
 const Contenedor_SQL = require('./contenedor/contenedor_sql.js');
 const mensajes = new Contenedor_SQL("mensajes", configSQL);
 const productos = new Contenedor_SQL('productos', configSQL);
+
+//Persistencia de usuarios
+const Contenedor_Atlas = require("./contenedor/contenedor_Atlas/contenedor_Atlas.js");
+const usuarios = new Contenedor_Atlas("../schemas/schemaUsuario.js");
 
 //Configuracion de servidor Express
 const express = require("express");

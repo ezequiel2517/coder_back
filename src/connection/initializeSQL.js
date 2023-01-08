@@ -2,7 +2,7 @@
 const knex = require('knex');
 const options = require('./options.js');
 
-//Inicio conexiones SQL
+//Inicio conexiones sqlite3
 const connectionSQL = knex(options.sqlite3);
 
 //Crear tablas si no existen
@@ -34,4 +34,11 @@ const connectionSQL = knex(options.sqlite3);
 
     //Cierra conexión al finalizar
     connectionSQL.destroy();
+})();
+
+//Inicio conexiones Mongo Atlas
+const mongoose = require("mongoose");
+
+(async () => {
+    mongoose.connect(options.mongoAtlas.connectionString, { serverSelectionTimeoutMS: 5000, })
 })();

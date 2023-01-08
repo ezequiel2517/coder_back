@@ -15,6 +15,9 @@ const options = {
             filename: './src/db/persistence.sqlite'
         },
         useNullAsDefault: true
+    },
+    mongoAtlas: {
+        connectionString: "mongodb+srv://ezequiel:ezequiel@cluster0.v5hpbf0.mongodb.net/usuarios?retryWrites=true&w=majority"
     }
 };
 
