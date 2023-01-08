@@ -48,7 +48,7 @@ routeAuth.get("/registro", (req, res) => {
 
 routeAuth.post("/registro", passport.authenticate("register", {
     successRedirect: "/home",
-    failureRedirect: "/register-error"
+    failureRedirect: "/registro-error"
 }))
 
 //Errores
