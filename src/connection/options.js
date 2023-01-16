@@ -1,23 +1,27 @@
+//dotenv para manejar variables de entorno
+const dotenv = require("dotenv");
+dotenv.config();
+
 const options = {
     mysql: {
         client: 'mysql',
         connection: {
-            host: '127.0.0.1',
-            user: 'root',
-            password: '',
-            database: 'ecommerce'
+            host: process.env.MYSQL_HOST,
+            user: process.env.MYSQL_USER,
+            password: process.env.MYSQL_PASSWORD,
+            database: process.env.MYSQL_DB
         },
         pool: { min: 0, max: 7 }
     },
     sqlite3: {
         client: 'sqlite3',
         connection: {
-            filename: './src/db/persistence.sqlite'
+            filename: process.env.SQLITE3
         },
         useNullAsDefault: true
     },
     mongoAtlas: {
-        connectionString: "mongodb+srv://ezequiel:ezequiel@cluster0.v5hpbf0.mongodb.net/usuarios?retryWrites=true&w=majority"
+        connectionString: process.env.ATLAS
     }
 };
 

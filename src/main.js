@@ -13,7 +13,17 @@ const express = require("express");
 const app = express();
 const { Server: HttpServer } = require("http");
 const { Server: ioServer } = require("socket.io");
-const PORT = 3000;
+
+//yargs para setear puerto por parametro
+const yargs = require("yargs")(process.argv.slice());
+const { puerto: PORT } = yargs
+.alias({
+    p: "puerto"
+})
+.default({
+    puerto: 8080
+})
+.argv;
 
 //Para poder usar JSON
 app.use(express.json());
@@ -57,6 +67,8 @@ const routeApi = require("./routers/api.js");
 app.use(routeApi);
 const routeHome = require("./routers/home.js")
 app.use(routeHome);
+const routeInfo = require("./routers/info.js");
+app.use(routeInfo);
 
 //Levantar servidor en puerto PORT
 const server = httpServer.listen(PORT, () => {
