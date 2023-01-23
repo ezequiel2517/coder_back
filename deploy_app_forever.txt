@@ -1,0 +1,8 @@
+#Levantar instancias de la app
+    forever start .\src\main.js --puerto 8080 --modo FORK
+    forever start .\src\main.js --puerto 8081 --modo CLUSTER
+    forever start .\src\main.js --puerto 8082 --modo FORK
+    forever start .\src\main.js --puerto 8083 --modo FORK
+    forever start .\src\main.js --puerto 8084 --modo FORK
+    forever start .\src\main.js --puerto 8085 --modo FORK
+

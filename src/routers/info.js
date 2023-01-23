@@ -3,6 +3,7 @@ const yargs = require("yargs");
 const routeInfo = new Router();
 
 routeInfo.get("/info", (req, res) => {
+    const numCpu = require("os").cpus().length;
     const info = {
         args: yargs.argv,
         so: process.platform,
@@ -10,7 +11,8 @@ routeInfo.get("/info", (req, res) => {
         memory: process.memoryUsage.rss(),
         execPath: process.execPath,
         pid: process.pid,
-        src: process.cwd()
+        src: process.cwd(),
+        cpus: numCpu
     };
 
     req.isAuthenticated()
