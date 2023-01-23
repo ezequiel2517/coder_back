@@ -8,93 +8,106 @@ const Contenedor_SQL = require('./contenedor/contenedor_sql.js');
 const mensajes = new Contenedor_SQL("mensajes", configSQL);
 const productos = new Contenedor_SQL('productos', configSQL);
 
-//Configuracion de servidor Express
-const express = require("express");
-const app = express();
-const { Server: HttpServer } = require("http");
-const { Server: ioServer } = require("socket.io");
-
-//yargs para setear puerto por parametro
+//yargs para setear puerto y modo por parametro
 const yargs = require("yargs")(process.argv.slice());
-const { puerto: PORT } = yargs
-.alias({
-    p: "puerto"
-})
-.default({
-    puerto: 8080
-})
-.argv;
+const { puerto: PORT, modo: MODO } = yargs
+    .alias({
+        p: "puerto",
+        m: "modo"
+    })
+    .default({
+        puerto: 8080,
+        modo: "FORK"
+    })
+    .argv;
 
-//Para poder usar JSON
-app.use(express.json());
-app.use(express.urlencoded({ extended: true }));
+const cluster = require("cluster");
+const numCpu = require("os").cpus().length;
 
-//Configuracion de websockets
-const httpServer = new HttpServer(app);
-const io = new ioServer(httpServer);
+if (cluster.isPrimary && MODO == "CLUSTER") {
+    for (let i = 0; i < numCpu; i++) {
+        cluster.fork();
+    }
+}
+else {
+    //Configuracion de servidor Express
+    const express = require("express");
+    const app = express();
+    const { Server: HttpServer } = require("http");
+    const { Server: ioServer } = require("socket.io");
 
-//Configuracion para sesiones de usuarios
-const cookieParser = require("cookie-parser");
-const session = require("express-session");
-const MongoStore = require("connect-mongo");
-const SECRET = 'secret';
+    //Para poder usar JSON
+    app.use(express.json());
+    app.use(express.urlencoded({ extended: true }));
 
-app.use(cookieParser());
-app.use(session({
-    store: MongoStore.create({
-        mongoUrl: "mongodb+srv://ezequiel:ezequiel@cluster0.v5hpbf0.mongodb.net/sessions?retryWrites=true&w=majority",
-        mongoOptions: { useNewUrlParser: true, useUnifiedTopology: true },
-        ttl: 60
-    }),
-    secret: SECRET,
-    resave: false,
-    saveUninitialized: false
-}));
+    //Configuracion de websockets
+    const httpServer = new HttpServer(app);
+    const io = new ioServer(httpServer);
 
-const passport = require("passport");
-app.use(passport.initialize());
-app.use(passport.session());
+    //Configuracion para sesiones de usuarios
+    const cookieParser = require("cookie-parser");
+    const session = require("express-session");
+    const MongoStore = require("connect-mongo");
+    const SECRET = 'secret';
 
-//Configuración de engine para render
-const path = require("path");
-app.set('views', path.join(__dirname, '../src/views'));
-app.set('view engine','ejs');
+    app.use(cookieParser());
+    app.use(session({
+        store: MongoStore.create({
+            mongoUrl: "mongodb+srv://ezequiel:ezequiel@cluster0.v5hpbf0.mongodb.net/sessions?retryWrites=true&w=majority",
+            mongoOptions: { useNewUrlParser: true, useUnifiedTopology: true },
+            ttl: 60
+        }),
+        secret: SECRET,
+        resave: false,
+        saveUninitialized: false
+    }));
 
-//Importar rutas
-const routeAuth = require("./routers/auth.js");
-app.use(routeAuth);
-const routeApi = require("./routers/api.js");
-app.use(routeApi);
-const routeHome = require("./routers/home.js")
-app.use(routeHome);
-const routeInfo = require("./routers/info.js");
-app.use(routeInfo);
+    const passport = require("passport");
+    app.use(passport.initialize());
+    app.use(passport.session());
 
-//Levantar servidor en puerto PORT
-const server = httpServer.listen(PORT, () => {
-    console.log(`Server escuchando en puerto ${server.address().port}`)
-})
+    //Configuración de engine para render
+    const path = require("path");
+    app.set('views', path.join(__dirname, '../src/views'));
+    app.set('view engine', 'ejs');
 
-//Websockets
-io.on("connection", async (socket) => {
-    console.log("Nuevo cliente conectado.");
+    //Importar rutas
+    const routeAuth = require("./routers/auth.js");
+    app.use(routeAuth);
+    const routeApi = require("./routers/api.js");
+    app.use(routeApi);
+    const routeHome = require("./routers/home.js")
+    app.use(routeHome);
+    const routeInfo = require("./routers/info.js");
+    const { clearScreenDown } = require("readline");
+    app.use(routeInfo);
 
-    /*Cuando hay un usuario nuevo se le envian 
-    los productos y mensajes (normalizados)*/
-    socket.emit("nuevo_cliente_productos", await productos.getAll());
+    //Levantar servidor en puerto PORT
+    const server = httpServer.listen(PORT, () => {
+        console.log(`Server escuchando en puerto ${server.address().port}`)
+    })
 
-    const getChatNormalizer = require("./normalizr/mensajes.js");
-    socket.emit("nuevo_cliente_chat", getChatNormalizer(await mensajes.getAll()));
+    //Websockets
+    io.on("connection", async (socket) => {
+        console.log("Nuevo cliente conectado.");
 
-    /*Cuando se agrega un nuevo 
-    usuario o mensaje se persiste*/
-    socket.on("addProducto", (data) => {
-        productos.save(data);
-        io.sockets.emit("newProducto", data);
+        /*Cuando hay un usuario nuevo se le envian 
+        los productos y mensajes (normalizados)*/
+        socket.emit("nuevo_cliente_productos", await productos.getAll());
+
+        const getChatNormalizer = require("./normalizr/mensajes.js");
+        socket.emit("nuevo_cliente_chat", getChatNormalizer(await mensajes.getAll()));
+
+        /*Cuando se agrega un nuevo 
+        usuario o mensaje se persiste*/
+        socket.on("addProducto", (data) => {
+            productos.save(data);
+            io.sockets.emit("newProducto", data);
+        });
+
+        socket.on("addMensaje", (data) => {
+            mensajes.save(data);
+            io.sockets.emit("newMensaje", data);
+        });
     });
-
-    socket.on("addMensaje", (data) => {
-        mensajes.save(data);
-        io.sockets.emit("newMensaje", data);
-    });
-});
+}
