@@ -7,8 +7,8 @@ routeApi.get("/api/productos-test", (req, res) => {
     res.send(productosFaker);
 })
 
-routeApi.get("/api/randoms/:cant", (req, res) => {
-    const cantidad = Number(req.params.cant) || 100000000;
+routeApi.get("/api/randoms/", (req, res) => {
+    const cantidad = Number(req.query.cant) || 100000000;
     const random = fork("./src/api/randomNumbers.js");
     random.send(cantidad);
     random.on("message", (arr) => res.send(arr));
