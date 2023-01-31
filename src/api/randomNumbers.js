@@ -1,3 +1,5 @@
+const logger = require("../pino/logger.js");
+
 class RandomNumber {
     constructor(cant) {
         this.numbers = {};
@@ -9,6 +11,10 @@ class RandomNumber {
 }
 
 process.on("message", (cant) => {
-    const random = new RandomNumber(cant);
-    process.send(random.numbers);
+    try {
+        const random = new RandomNumber(cant);
+        process.send(random.numbers);
+    } catch (error) {
+        logger.error("Error al ejecutar la API de mensajes");
+    }
 });

@@ -24,6 +24,9 @@ const { puerto: PORT, modo: MODO } = yargs
 const cluster = require("cluster");
 const numCpu = require("os").cpus().length;
 
+//Logger de Pino
+const logger = require("./pino/logger.js");
+
 if (cluster.isPrimary && MODO == "CLUSTER") {
     for (let i = 0; i < numCpu; i++) {
         cluster.fork();
@@ -39,6 +42,10 @@ else {
     //Para poder usar JSON
     app.use(express.json());
     app.use(express.urlencoded({ extended: true }));
+
+    //Compression
+    const compression = require("compression");
+    app.use(compression());
 
     //Configuracion de websockets
     const httpServer = new HttpServer(app);
@@ -81,6 +88,11 @@ else {
     const routeInfo = require("./routers/info.js");
     const { clearScreenDown } = require("readline");
     app.use(routeInfo);
+
+    app.get("*", (req, res)=>{
+        logger.warn({msg: "Acceso a ruta invalida", route: req.params[0]});
+        res.redirect("/");
+    });
 
     //Levantar servidor en puerto PORT
     const server = httpServer.listen(PORT, () => {
