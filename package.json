@@ -4,8 +4,8 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon ./src/main.js 8070 FORK"
+    "test": "node ./src/benchmark.js",
+    "start": "0x ./src/main.js 8070 FORK"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ezequiel2517/coder_back#readme",
   "dependencies": {
+    "autocannon": "^7.10.0",
     "bcrypt": "^5.1.0",
     "compression": "^1.7.4",
     "connect-mongo": "^4.6.0",

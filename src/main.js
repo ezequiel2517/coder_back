@@ -86,7 +86,6 @@ else {
     const routeHome = require("./routers/home.js")
     app.use(routeHome);
     const routeInfo = require("./routers/info.js");
-    const { clearScreenDown } = require("readline");
     app.use(routeInfo);
 
     app.get("*", (req, res)=>{

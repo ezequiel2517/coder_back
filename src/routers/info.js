@@ -1,27 +1,23 @@
 const { Router } = require("express");
-const yargs = require("yargs");
 const routeInfo = new Router();
 const logger = require("../pino/logger.js");
+const { fork } = require("child_process");
 
 routeInfo.get("/info", (req, res) => {
-    logger.info({msg: "Acceso a ruta", route: "/info"});
-    const numCpu = require("os").cpus().length;
-    const info = {
-        args: yargs.argv,
-        so: process.platform,
-        version: process.version,
-        memory: process.memoryUsage.rss(),
-        execPath: process.execPath,
-        pid: process.pid,
-        src: process.cwd(),
-        cpus: numCpu
-    };
+    logger.info({ msg: "Acceso a ruta", route: "/info" });
 
-    req.isAuthenticated()
-        ?
-        res.render("info", info)
-        :
-        res.redirect("/login");
+    const info = fork("./src/info/info.js");
+    info.send("message");
+    info.on("message", (info) => {
+        //Agrego info al log (req. de entregable)
+        logger.info({ msg: info, route: "/info" });
+
+        req.isAuthenticated()
+            ?
+            res.render("info", info)
+            :
+            res.redirect("/login");
+    });
 });
 
 module.exports = routeInfo;

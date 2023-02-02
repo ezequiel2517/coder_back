@@ -1,0 +1,656 @@
+{"level":30,"time":1675298307376,"pid":32308,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675298307378,"pid":32308,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":["C:\\Program Files\\nodejs\\node.exe","D:\\Documentos\\corderhouse\\src\\main.js",8070,"FORK"],"puerto":8080,"p":8080,"modo":"FORK","m":"FORK","$0":"src\\main.js"},"so":"win32","version":"v16.14.2","memory":73379840,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":32308,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675298307392,"pid":32308,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1675298307520,"pid":32308,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1675298307526,"pid":32308,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675298692267,"pid":20528,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675298692276,"pid":20528,"hostname":"LAPTOP-6KJDOQ12","msg":{"_events":{},"_eventsCount":2,"_closesNeeded":2,"_closesGot":0,"connected":true,"signalCode":null,"exitCode":null,"killed":false,"spawnfile":"C:\\Program Files\\nodejs\\node.exe","_handle":{"pid":30372},"spawnargs":["C:\\Program Files\\nodejs\\node.exe","../info/info.js"],"pid":30372,"stdin":null,"stdout":null,"stderr":null,"stdio":[null,null,null,null],"channel":{"_events":{},"_eventsCount":0},"_handleQueue":null,"_pendingMessage":null},"route":"/info"}
+{"level":30,"time":1675298692288,"pid":20528,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1675298692757,"pid":20528,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1675298692766,"pid":20528,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675298698687,"pid":20528,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1675298698924,"pid":20528,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1675298699095,"pid":20528,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1675298702239,"pid":20528,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675298702243,"pid":20528,"hostname":"LAPTOP-6KJDOQ12","msg":{"_events":{},"_eventsCount":2,"_closesNeeded":2,"_closesGot":0,"connected":true,"signalCode":null,"exitCode":null,"killed":false,"spawnfile":"C:\\Program Files\\nodejs\\node.exe","_handle":{"pid":14120},"spawnargs":["C:\\Program Files\\nodejs\\node.exe","../info/info.js"],"pid":14120,"stdin":null,"stdout":null,"stderr":null,"stdio":[null,null,null,null],"channel":{"_events":{},"_eventsCount":0},"_handleQueue":null,"_pendingMessage":null},"route":"/info"}
+{"level":30,"time":1675298724073,"pid":10400,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675298724080,"pid":10400,"hostname":"LAPTOP-6KJDOQ12","msg":{"_events":{},"_eventsCount":2,"_closesNeeded":2,"_closesGot":0,"connected":true,"signalCode":null,"exitCode":null,"killed":false,"spawnfile":"C:\\Program Files\\nodejs\\node.exe","_handle":{"pid":23664},"spawnargs":["C:\\Program Files\\nodejs\\node.exe","./info/info.js"],"pid":23664,"stdin":null,"stdout":null,"stderr":null,"stdio":[null,null,null,null],"channel":{"_events":{},"_eventsCount":0},"_handleQueue":null,"_pendingMessage":null},"route":"/info"}
+{"level":30,"time":1675298726620,"pid":10400,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675298726626,"pid":10400,"hostname":"LAPTOP-6KJDOQ12","msg":{"_events":{},"_eventsCount":2,"_closesNeeded":2,"_closesGot":0,"connected":true,"signalCode":null,"exitCode":null,"killed":false,"spawnfile":"C:\\Program Files\\nodejs\\node.exe","_handle":{"pid":3980},"spawnargs":["C:\\Program Files\\nodejs\\node.exe","./info/info.js"],"pid":3980,"stdin":null,"stdout":null,"stderr":null,"stdio":[null,null,null,null],"channel":{"_events":{},"_eventsCount":0},"_handleQueue":null,"_pendingMessage":null},"route":"/info"}
+{"level":30,"time":1675298729256,"pid":10400,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675298729260,"pid":10400,"hostname":"LAPTOP-6KJDOQ12","msg":{"_events":{},"_eventsCount":2,"_closesNeeded":2,"_closesGot":0,"connected":true,"signalCode":null,"exitCode":null,"killed":false,"spawnfile":"C:\\Program Files\\nodejs\\node.exe","_handle":{"pid":33280},"spawnargs":["C:\\Program Files\\nodejs\\node.exe","./info/info.js"],"pid":33280,"stdin":null,"stdout":null,"stderr":null,"stdio":[null,null,null,null],"channel":{"_events":{},"_eventsCount":0},"_handleQueue":null,"_pendingMessage":null},"route":"/info"}
+{"level":30,"time":1675298750802,"pid":6696,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675298750809,"pid":6696,"hostname":"LAPTOP-6KJDOQ12","msg":{"_events":{},"_eventsCount":2,"_closesNeeded":2,"_closesGot":0,"connected":true,"signalCode":null,"exitCode":null,"killed":false,"spawnfile":"C:\\Program Files\\nodejs\\node.exe","_handle":{"pid":8648},"spawnargs":["C:\\Program Files\\nodejs\\node.exe","../info/info.js"],"pid":8648,"stdin":null,"stdout":null,"stderr":null,"stdio":[null,null,null,null],"channel":{"_events":{},"_eventsCount":0},"_handleQueue":null,"_pendingMessage":null},"route":"/info"}
+{"level":30,"time":1675298782758,"pid":16372,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675298782765,"pid":16372,"hostname":"LAPTOP-6KJDOQ12","msg":{"_events":{},"_eventsCount":2,"_closesNeeded":2,"_closesGot":0,"connected":true,"signalCode":null,"exitCode":null,"killed":false,"spawnfile":"C:\\Program Files\\nodejs\\node.exe","_handle":{"pid":24364},"spawnargs":["C:\\Program Files\\nodejs\\node.exe","..src/info/info.js"],"pid":24364,"stdin":null,"stdout":null,"stderr":null,"stdio":[null,null,null,null],"channel":{"_events":{},"_eventsCount":0},"_handleQueue":null,"_pendingMessage":null},"route":"/info"}
+{"level":30,"time":1675298790751,"pid":24516,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675298790758,"pid":24516,"hostname":"LAPTOP-6KJDOQ12","msg":{"_events":{},"_eventsCount":2,"_closesNeeded":2,"_closesGot":0,"connected":true,"signalCode":null,"exitCode":null,"killed":false,"spawnfile":"C:\\Program Files\\nodejs\\node.exe","_handle":{"pid":22300},"spawnargs":["C:\\Program Files\\nodejs\\node.exe",".src/info/info.js"],"pid":22300,"stdin":null,"stdout":null,"stderr":null,"stdio":[null,null,null,null],"channel":{"_events":{},"_eventsCount":0},"_handleQueue":null,"_pendingMessage":null},"route":"/info"}
+{"level":30,"time":1675298798939,"pid":19328,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675298798947,"pid":19328,"hostname":"LAPTOP-6KJDOQ12","msg":{"_events":{},"_eventsCount":2,"_closesNeeded":2,"_closesGot":0,"connected":true,"signalCode":null,"exitCode":null,"killed":false,"spawnfile":"C:\\Program Files\\nodejs\\node.exe","_handle":{"pid":33724},"spawnargs":["C:\\Program Files\\nodejs\\node.exe","src/info/info.js"],"pid":33724,"stdin":null,"stdout":null,"stderr":null,"stdio":[null,null,null,null],"channel":{"_events":{},"_eventsCount":0},"_handleQueue":null,"_pendingMessage":null},"route":"/info"}
+{"level":30,"time":1675298853503,"pid":10904,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675298853509,"pid":10904,"hostname":"LAPTOP-6KJDOQ12","msg":{"_events":{},"_eventsCount":2,"_closesNeeded":2,"_closesGot":0,"connected":true,"signalCode":null,"exitCode":null,"killed":false,"spawnfile":"C:\\Program Files\\nodejs\\node.exe","_handle":{"pid":30940},"spawnargs":["C:\\Program Files\\nodejs\\node.exe","../info/info.js"],"pid":30940,"stdin":null,"stdout":null,"stderr":null,"stdio":[null,null,null,null],"channel":{"_events":{},"_eventsCount":0},"_handleQueue":null,"_pendingMessage":null},"route":"/info"}
+{"level":30,"time":1675298873011,"pid":9476,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675298873018,"pid":9476,"hostname":"LAPTOP-6KJDOQ12","msg":{"_events":{},"_eventsCount":2,"_closesNeeded":2,"_closesGot":0,"connected":true,"signalCode":null,"exitCode":null,"killed":false,"spawnfile":"C:\\Program Files\\nodejs\\node.exe","_handle":{"pid":16144},"spawnargs":["C:\\Program Files\\nodejs\\node.exe","../info/info.js"],"pid":16144,"stdin":null,"stdout":null,"stderr":null,"stdio":[null,null,null,null],"channel":{"_events":{},"_eventsCount":0},"_handleQueue":null,"_pendingMessage":null},"route":"/info"}
+{"level":30,"time":1675298918627,"pid":19020,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675298918635,"pid":19020,"hostname":"LAPTOP-6KJDOQ12","msg":{"_events":{},"_eventsCount":2,"_closesNeeded":2,"_closesGot":0,"connected":true,"signalCode":null,"exitCode":null,"killed":false,"spawnfile":"C:\\Program Files\\nodejs\\node.exe","_handle":{"pid":29136},"spawnargs":["C:\\Program Files\\nodejs\\node.exe",".src/info/info.js"],"pid":29136,"stdin":null,"stdout":null,"stderr":null,"stdio":[null,null,null,null],"channel":{"_events":{},"_eventsCount":0},"_handleQueue":null,"_pendingMessage":null},"route":"/info"}
+{"level":30,"time":1675298925729,"pid":18428,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675298925736,"pid":18428,"hostname":"LAPTOP-6KJDOQ12","msg":{"_events":{},"_eventsCount":2,"_closesNeeded":2,"_closesGot":0,"connected":true,"signalCode":null,"exitCode":null,"killed":false,"spawnfile":"C:\\Program Files\\nodejs\\node.exe","_handle":{"pid":25020},"spawnargs":["C:\\Program Files\\nodejs\\node.exe","src/info/info.js"],"pid":25020,"stdin":null,"stdout":null,"stderr":null,"stdio":[null,null,null,null],"channel":{"_events":{},"_eventsCount":0},"_handleQueue":null,"_pendingMessage":null},"route":"/info"}
+{"level":30,"time":1675298990899,"pid":1036,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675298990906,"pid":1036,"hostname":"LAPTOP-6KJDOQ12","route":"/info"}
+{"level":30,"time":1675298990961,"pid":1036,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1675298991162,"pid":1036,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1675298991253,"pid":1036,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675298995049,"pid":1036,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1675298995255,"pid":1036,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1675298995428,"pid":1036,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1675298996212,"pid":1036,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675298996216,"pid":1036,"hostname":"LAPTOP-6KJDOQ12","route":"/info"}
+{"level":30,"time":1675299072697,"pid":13196,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299093694,"pid":1904,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299101946,"pid":9816,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299138826,"pid":9816,"hostname":"LAPTOP-6KJDOQ12","route":"/info"}
+{"level":30,"time":1675299138958,"pid":9816,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299143879,"pid":9816,"hostname":"LAPTOP-6KJDOQ12","route":"/info"}
+{"level":30,"time":1675299143942,"pid":9816,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1675299144153,"pid":9816,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1675299144246,"pid":9816,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299148497,"pid":9816,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299148503,"pid":9816,"hostname":"LAPTOP-6KJDOQ12","route":"/info"}
+{"level":30,"time":1675299148553,"pid":9816,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1675299148649,"pid":9816,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1675299148739,"pid":9816,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299161344,"pid":9816,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1675299161567,"pid":9816,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1675299161747,"pid":9816,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1675299164478,"pid":9816,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299164484,"pid":9816,"hostname":"LAPTOP-6KJDOQ12","route":"/info"}
+{"level":30,"time":1675299185146,"pid":9816,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299200929,"pid":9816,"hostname":"LAPTOP-6KJDOQ12","route":"/info"}
+{"level":30,"time":1675299229896,"pid":33412,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299241010,"pid":33412,"hostname":"LAPTOP-6KJDOQ12","route":"/info"}
+{"level":30,"time":1675299250263,"pid":18988,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299250269,"pid":18988,"hostname":"LAPTOP-6KJDOQ12","route":"/info"}
+{"level":30,"time":1675299379793,"pid":12276,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299391224,"pid":22616,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299398299,"pid":9664,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299398401,"pid":9664,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":31293440,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":15688,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299398453,"pid":9664,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1675299398545,"pid":9664,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1675299398634,"pid":9664,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299401917,"pid":9664,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1675299402134,"pid":9664,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1675299402308,"pid":9664,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1675299403022,"pid":9664,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299403130,"pid":9664,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":31776768,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":29128,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":40,"time":1675299403454,"pid":9664,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1675299403628,"pid":9664,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1675299412026,"pid":33596,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299426436,"pid":13608,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299452173,"pid":16552,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299452273,"pid":16552,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":31596544,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":25308,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":40,"time":1675299452497,"pid":16552,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1675299452953,"pid":16552,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1675299579160,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299579188,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299579238,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299579287,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299579337,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299579387,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299579437,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299579488,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299579556,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299579589,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299579640,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299579689,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299579739,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299579789,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299579838,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299579889,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299579937,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299579987,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299580043,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299580088,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299580531,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56532992,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":21968,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299580562,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299580863,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56582144,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":29936,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299580914,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299580978,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56614912,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":19256,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299580985,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299581138,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56107008,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":25896,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299581143,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299581192,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56590336,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":13132,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299581197,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56545280,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":2500,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299581199,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299581200,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299581375,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56586240,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":29828,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299581389,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299581575,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56254464,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":23824,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299581586,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299581624,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56610816,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":8620,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299581628,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299581634,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56573952,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":26968,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299581670,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299581696,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56688640,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":9424,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299581701,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":55689216,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":30396,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299581703,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299581705,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299581721,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56061952,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":25240,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299581724,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299581725,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":55513088,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":33144,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299581729,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56156160,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":8528,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299581732,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299581733,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56492032,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":7972,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299581735,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299581738,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299581747,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56569856,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":2900,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299581751,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299581796,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56098816,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":28248,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299581802,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299581908,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56094720,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":26340,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299581912,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299581942,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56569856,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":32096,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299581945,"pid":21000,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299766575,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299766604,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299766653,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299766702,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299766753,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299766803,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299766853,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299766903,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299766956,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299767006,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299767056,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299767105,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299767170,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299767207,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299767255,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299767304,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299767355,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299767404,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299767464,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299767572,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675299767705,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56623104,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":7276,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299767724,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299768289,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56066048,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":26764,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299768309,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299768361,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56549376,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":16648,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299768366,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299768371,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56160256,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":22036,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299768373,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56176640,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":12248,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299768375,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299768377,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299768377,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56586240,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":27044,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299768383,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299768649,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56578048,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":21372,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299768697,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":55513088,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":27488,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299768780,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299768903,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56639488,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":19720,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299768945,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299768953,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56541184,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":25996,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299768959,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56619008,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":17644,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299768965,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56057856,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":32536,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299768970,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299768975,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299768981,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299768991,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299769046,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56152064,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":26144,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299769048,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56619008,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":19156,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299769056,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56188928,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":7068,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299769066,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299769074,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299769078,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299769079,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56545280,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":29196,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299769087,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56692736,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":24692,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299769093,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299769094,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299769121,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56627200,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":9328,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299769123,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299769167,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56680448,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":19044,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299769171,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675299769180,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56623104,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":32560,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675299769182,"pid":28736,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1675300761018,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761031,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761036,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761042,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761049,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761055,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761063,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761073,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761082,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761095,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761104,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761112,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761145,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761152,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761159,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761167,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761177,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761186,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761272,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761279,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761286,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761293,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761300,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761306,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761313,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761319,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761325,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761331,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761339,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761408,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761415,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761421,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761427,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761434,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761441,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761448,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761454,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761461,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761467,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761474,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761481,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761488,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761495,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761544,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761551,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761558,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761565,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761572,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761580,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761587,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761739,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300761863,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300762000,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300762096,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300762103,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300762193,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300762250,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300762257,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300762266,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300762408,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300762541,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300762689,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300762698,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300762704,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300762712,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300762719,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300762726,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300762733,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300762741,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300762873,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300762971,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300763365,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300763704,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300763713,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300763721,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300763731,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300764033,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300764333,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300764340,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300764927,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300765211,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300765488,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300765859,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300765866,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300766142,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300766404,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300766630,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300766638,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300766646,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300766654,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300766819,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300767126,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300767463,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300767479,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300767635,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300767643,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300767651,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300767660,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300767668,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300767675,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300767702,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":57946112,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":27640,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300767728,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":57974784,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":10192,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300767730,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":57946112,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":7436,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300767731,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":58064896,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":20036,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300767732,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":58105856,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":28556,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300767734,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":58023936,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":28852,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300767735,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":57970688,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":8596,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300767737,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":57827328,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":29060,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300767754,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":58003456,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":13748,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300767755,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":58040320,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":22816,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300767756,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":57077760,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":2204,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300767757,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":58036224,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":12036,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300767759,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":58011648,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":26868,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300767761,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":58011648,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":10380,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300767763,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":57925632,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":15268,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300767764,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":58089472,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":30364,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300767765,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":58036224,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":16008,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300767766,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":58040320,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":13228,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300767767,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":57872384,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":10828,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300767768,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":58097664,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":7144,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300767768,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":58085376,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":8232,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300767771,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56954880,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":18652,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300767772,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300768126,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300768457,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300768465,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300768936,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300769039,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300769294,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300769490,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300771729,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300771754,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300771762,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300771770,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300771779,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300771797,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300771809,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300771816,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300771824,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300771832,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300771839,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300771848,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300771859,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300771903,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300771912,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":57733120,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":21536,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771913,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56901632,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":17348,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771914,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56705024,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":18296,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771914,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":57970688,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":11112,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771916,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":58146816,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":3716,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771916,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47812608,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":25616,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771917,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47976448,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":32700,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771918,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47640576,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":33252,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771919,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47861760,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":27264,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771920,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":51167232,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":25252,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771920,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":46764032,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":31540,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771921,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":46706688,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":19196,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771921,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47767552,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":29500,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771922,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47824896,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":23948,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771923,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47730688,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":26840,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771923,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47865856,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":29276,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771924,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47775744,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":25960,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771924,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47747072,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":17260,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771925,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47644672,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":4164,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771926,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47984640,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":13408,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771926,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47820800,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":11988,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771927,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47874048,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":24248,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771928,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47702016,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":26268,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771928,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47681536,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":23548,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771929,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48467968,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":20236,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771929,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47747072,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":22496,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771930,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47808512,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":1508,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771930,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47792128,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":32828,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771931,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47878144,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":12116,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771932,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47591424,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":18968,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771933,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47607808,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":32012,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771934,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47910912,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":12540,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771934,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48041984,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":27920,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771935,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47800320,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":28636,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771936,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47820800,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":26872,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771940,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47951872,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":9548,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771940,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47734784,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":10532,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771944,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47792128,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":8804,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771946,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":46755840,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":11140,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771947,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47763456,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":3896,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300771947,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":46698496,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":31928,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300772036,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47747072,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":26348,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300772408,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300772418,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300772426,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300772436,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300772666,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300772700,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300772708,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300772717,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300773217,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300773600,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300773897,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300774424,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300774661,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300775674,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300776473,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300776482,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300776849,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300777293,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300777793,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300778318,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300778770,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300778877,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300779669,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300780329,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300780342,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300780592,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300781488,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300783922,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300784231,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300784525,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300784611,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300784650,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300784665,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300784677,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300784844,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300784913,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300785061,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300785369,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300785379,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300785425,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300785670,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300785698,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300785892,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300786707,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300787854,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300788283,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300788345,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300788357,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300788396,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300788417,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300788442,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300788458,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300788548,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300788559,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300788939,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300789010,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300789809,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300789909,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300789958,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300789971,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300790098,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300790159,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300790270,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300790357,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300790407,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300790870,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300790954,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300791085,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300791182,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300791254,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300791306,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300791411,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300791569,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300791599,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300791648,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300792313,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300792432,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300792444,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300792575,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47919104,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":17552,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792577,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47841280,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":12548,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792578,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47697920,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":28508,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792578,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":46833664,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":30448,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792579,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48099328,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":10836,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792579,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47611904,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":20428,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792580,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47656960,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":17524,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792580,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47714304,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":15840,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792580,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":42643456,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":29532,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792581,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47009792,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":10640,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792581,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47685632,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":13532,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792582,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49840128,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":16668,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792582,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49971200,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":14648,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792583,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47722496,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":14464,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792588,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49889280,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":12140,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792589,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":50065408,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":864,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792590,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49922048,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":14324,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792591,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":34729984,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":17304,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792591,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49901568,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":18832,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792592,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49741824,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":8652,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792592,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":44138496,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":20792,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792592,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48943104,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":18040,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792593,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":46833664,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":12284,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792593,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49807360,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":8620,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792594,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49844224,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":2900,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792594,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49819648,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":13336,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792594,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49750016,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":30160,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792595,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49917952,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":5044,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792595,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49909760,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":9340,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792596,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49967104,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":26732,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792596,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":46886912,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":29620,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300792608,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300792687,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300793410,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300793422,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300793555,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300793636,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300794466,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300794524,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300794556,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300794759,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300794943,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300795017,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300795107,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300795400,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300795513,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300795555,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300795656,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300795668,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300795754,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300795834,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300795879,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300795906,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1675300797139,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49991680,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":27588,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797148,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49840128,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":16064,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797153,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":46690304,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":18624,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797201,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48967680,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":11556,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797216,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49799168,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":10200,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797217,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49750016,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":12332,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797233,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":50077696,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":23620,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797238,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48148480,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":12940,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797239,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48410624,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":25032,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797239,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49860608,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":26652,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797240,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":46202880,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":7348,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797240,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49868800,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":11636,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797240,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49852416,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":4832,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797241,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":50008064,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":31948,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797241,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49926144,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":23252,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797241,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48316416,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":2420,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797242,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49045504,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":13444,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797242,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":46616576,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":16492,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797284,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48701440,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":19488,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797284,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48873472,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":13592,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797285,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48984064,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":25672,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797285,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49082368,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":19256,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797286,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49008640,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":24368,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797286,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48947200,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":9268,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797287,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49049600,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":25760,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797288,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48472064,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":10044,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797288,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49885184,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":32704,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797289,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48975872,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":25576,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797289,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48934912,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":33248,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797289,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":50135040,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":11200,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797290,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48836608,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":15440,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797290,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48869376,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":25940,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797291,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48947200,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":2336,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797291,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":58146816,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":28724,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797291,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49000448,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":14248,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797292,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":57188352,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":30288,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797292,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49041408,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":18880,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797292,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":57155584,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":30704,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797293,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48869376,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":11032,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797293,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":57163776,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":11432,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797294,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49057792,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":20120,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797294,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49041408,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":20560,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797294,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49872896,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":16724,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797295,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48762880,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":16688,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797296,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48795648,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":27820,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797296,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48816128,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":33508,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797297,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49315840,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":8428,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797297,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49078272,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":23352,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797297,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48783360,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":6596,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797297,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48836608,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":19084,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797298,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49651712,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":31004,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797298,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":56942592,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":27240,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797299,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48738304,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":16576,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797299,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49008640,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":28740,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797300,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49414144,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":24392,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797301,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48857088,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":22956,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797301,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49123328,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":19560,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797306,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":58224640,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":6256,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797328,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":58142720,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":21468,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797329,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":58216448,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":31304,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797330,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":57163776,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":27272,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797333,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":57327616,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":30260,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797334,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":57262080,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":16272,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797335,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":58331136,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":32476,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797336,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49553408,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":23008,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797337,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49561600,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":12176,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797337,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":57196544,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":25160,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797337,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":50057216,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":19216,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797338,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":51347456,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":24268,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797338,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":58224640,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":8180,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797339,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":57274368,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":15980,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797342,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":46624768,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":3980,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797343,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":53751808,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":12988,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797344,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":54161408,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":13660,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797345,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":54140928,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":3868,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797345,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":54087680,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":11712,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797346,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":53846016,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":6076,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797346,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":50581504,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":27140,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797347,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":51085312,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":19708,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797347,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":54558720,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":31192,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797347,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49991680,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":17748,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797348,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":54239232,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":11040,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797351,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49704960,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":20180,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797351,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":53850112,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":23324,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797351,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":50843648,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":12776,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797352,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":54730752,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":18692,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797353,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":50774016,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":14204,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797353,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":54235136,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":8888,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797353,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":54538240,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":27396,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797354,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":50794496,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":17124,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797354,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":54218752,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":19800,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797355,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":54792192,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":6652,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797355,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":54644736,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":16584,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797355,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":54038528,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":10284,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797356,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49090560,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":6336,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797357,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":50130944,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":11052,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797357,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49373184,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":28328,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797357,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":54013952,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":24208,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797358,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":54329344,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":3076,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797358,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":54636544,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":17612,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797359,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":54226944,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":21236,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797359,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48721920,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":17276,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797384,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49143808,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":4580,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300797659,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47067136,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":24472,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300799060,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":46702592,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":10592,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300799372,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":46686208,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":20212,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300799374,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47861760,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":31924,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300799377,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":46596096,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":12148,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300799380,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":46657536,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":11320,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300799380,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49233920,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":28844,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300799381,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47828992,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":33096,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300799383,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49188864,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":25460,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300799387,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":49573888,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":16836,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300799388,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":46608384,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":16932,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300799388,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47722496,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":25968,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300799389,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47665152,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":21896,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300799433,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":54550528,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":3408,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300799441,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47992832,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":27336,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300799475,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48246784,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":28428,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300799484,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48271360,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":18860,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300799682,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":50630656,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":31656,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300799690,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47718400,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":13272,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300799692,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48246784,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":23152,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300799698,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47693824,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":29724,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300799718,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48779264,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":11024,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300799728,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":47906816,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":32724,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":30,"time":1675300799750,"pid":2384,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","memory":48455680,"execPath":"C:\\Program Files\\nodejs\\node.exe","pid":29728,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
