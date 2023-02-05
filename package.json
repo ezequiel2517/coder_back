@@ -5,7 +5,7 @@
   "main": "main.js",
   "scripts": {
     "test": "node ./src/benchmark.js",
-    "start": "0x ./src/main.js 8070 FORK"
+    "start": "node ./src/main.js -p 8070 -m FORK"
   },
   "repository": {
     "type": "git",
