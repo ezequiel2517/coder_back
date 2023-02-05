@@ -6,7 +6,8 @@ process.on("message", () => {
         args: yargs.argv,
         so: process.platform,
         version: process.version,
-        memory: process.memoryUsage.rss(),
+        //Se quita por problemas en Render
+        //memory: process.memoryUsage.rss(),
         execPath: process.execPath,
         pid: process.pid,
         src: process.cwd(),

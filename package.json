@@ -4,7 +4,6 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "node ./src/benchmark.js",
     "start": "node ./src/main.js -p 8070 -m FORK"
   },
   "repository": {
