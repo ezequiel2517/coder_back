@@ -2,6 +2,28 @@ const passport = require("../passport/passport.js");
 const { Router } = require("express");
 const routeAuth = new Router();
 const logger = require("../pino/logger.js");
+const bcrypt = require("bcrypt");
+
+//Persistencia de usuarios en Mongo Atlas
+const Contenedor_Atlas = require("../contenedor/contenedor_Atlas/contenedor_Atlas.js");
+const usuarios = new Contenedor_Atlas("../schemas/schemaUsuario.js");
+
+//Subir imagenes a servidor local
+const multer = require("multer");
+// const upload = multer({ dest: "../../public/images", f });
+const path = require('path')
+
+//Configuration for Multer
+const storage = multer.diskStorage({
+    destination: (req, file, cb) => {
+      cb(null, "public");
+    },
+    filename: (req, file, cb) => {
+      cb(null, `/images/${req.body.nombre}_perfil${path.extname(file.originalname)}`);
+    },
+  });
+   
+  const upload = multer({ storage: storage })
 
 //Raiz
 routeAuth.get("/", (req, res) => {
@@ -50,10 +72,19 @@ routeAuth.get("/registro", (req, res) => {
         res.sendFile(process.cwd() + "/public/registro.html");
 });
 
-routeAuth.post("/registro", passport.authenticate("register", {
-    successRedirect: "/home",
-    failureRedirect: "/registro-error"
-}))
+routeAuth.post("/registro", 
+    upload.single('imagen'),
+    //passport.authenticate("register", { failureRedirect: "/registro-error" }), 
+    (req, res) => {
+        const { password, username, nombre, direccion, edad } = req.body;
+        bcrypt.hash(password, 8, async (error, hash) => {
+            if (error) throw error;
+            const nuevoUsuario = { username, password: hash, nombre, direccion, edad };
+            await usuarios.save(nuevoUsuario);
+            res.redirect("/home");
+        })
+    }
+);
 
 //Errores
 routeAuth.get("/login-error", (req, res) => {

@@ -13,11 +13,19 @@
 <body>
     <div class="d-flex row m-3">
         <h2 class="my-3 text-center">REGISTRO</h2>
-        <form class="container w-50" method="post">
+        <form class="container w-50" method="post" enctype="multipart/form-data">
             <label for="username" class="form-label mb-3"> Usuario </label>
             <input type="text" class="form-control mb-3" name="username" required="required">
             <label for="password" class="form-label"> Contraseña </label>
             <input type="password" class="form-control mb-3" name="password" required="required">
+            <label for="nombre" class="form-label mb-3"> Nombre </label>
+            <input type="text" class="form-control mb-3" name="nombre" required="required">
+            <label for="direccion" class="form-label mb-3"> Direccion </label>
+            <input type="text" class="form-control mb-3" name="direccion" required="required">
+            <label for="edad" class="form-label mb-3"> Edad </label>
+            <input type="number" min="0" class="form-control mb-3" name="edad" required="required">
+            <label for="imagen" class="form-label mb-3"> Foto de perfil </label>
+            <input type="file" class="form-control mb-3" name="imagen" required="required">
             <button type="submit" class="btn btn-primary mb-3"> Enviar </button>
         </form>
         <hr>

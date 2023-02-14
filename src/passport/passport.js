@@ -14,12 +14,7 @@ passport.use("register", new Strategy(async (username, password, done) => {
     const usuarioExiste = await usuarios.findByField("username", username);
 
     if (!usuarioExiste) {
-        bcrypt.hash(password, 8, async (error, hash) => {
-            if (error) throw error;
-            const nuevoUsuario = { username, password: hash };
-            await usuarios.save(nuevoUsuario);
-            done(null, nuevoUsuario);
-        })
+        done(null, { username, password });
     }
     else {
         done(null, false);
