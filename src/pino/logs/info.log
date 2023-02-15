@@ -859,3 +859,74 @@
 {"level":30,"time":1676412917919,"pid":11980,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
 {"level":40,"time":1676412917999,"pid":11980,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
 {"level":30,"time":1676412918084,"pid":11980,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1676494304287,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1676494304480,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1676494304485,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1676494305999,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/registro"}
+{"level":40,"time":1676494306139,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1676494306148,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1676494326046,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1676494326416,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1676494326586,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1676494334246,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/logout"}
+{"level":40,"time":1676494334372,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1676494334502,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1676494338102,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/logout"}
+{"level":40,"time":1676494338224,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1676494338311,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1676494339925,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/registro"}
+{"level":40,"time":1676494340012,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1676494340098,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1676494357783,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/registro-error"}
+{"level":40,"time":1676494357982,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1676494358070,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1676494359413,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/registro"}
+{"level":40,"time":1676494359505,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1676494359591,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1676494597573,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/static"}
+{"level":30,"time":1676494597667,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1676494597752,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1676494597838,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1676494600164,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/public"}
+{"level":30,"time":1676494600268,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1676494600353,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1676494600437,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1676494609951,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1676494610176,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1676494610344,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1676494612134,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1676494612318,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1676494612486,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1676494614363,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/public"}
+{"level":30,"time":1676494614530,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1676494614710,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1676494614878,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1676494617063,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/public/"}
+{"level":30,"time":1676494617235,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1676494617430,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1676494617597,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1676494641734,"pid":14292,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/public"}
+{"level":30,"time":1676494642146,"pid":14292,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1676494642359,"pid":14292,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1676494642521,"pid":14292,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1676494644741,"pid":14292,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/public"}
+{"level":30,"time":1676494644903,"pid":14292,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1676494645092,"pid":14292,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1676494645253,"pid":14292,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1676494650586,"pid":14292,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/public"}
+{"level":30,"time":1676494650749,"pid":14292,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1676494650961,"pid":14292,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1676494651123,"pid":14292,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1676494858104,"pid":5860,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1676494877737,"pid":10056,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1676495114319,"pid":7476,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1676495116040,"pid":7476,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/registro"}
+{"level":30,"time":1676495125338,"pid":7476,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1676495252574,"pid":14324,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1676495253592,"pid":14324,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/info"}
+{"level":30,"time":1676495253714,"pid":14324,"hostname":"LAPTOP-6KJDOQ12","msg":{"args":{"_":[],"$0":"src\\info\\info.js"},"so":"win32","version":"v16.14.2","execPath":"C:\\Program Files\\nodejs\\node.exe","pid":4740,"src":"D:\\Documentos\\corderhouse","cpus":8},"route":"/info"}
+{"level":40,"time":1676495337058,"pid":10824,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1676495353737,"pid":4140,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1676495360933,"pid":4140,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/images/"}
+{"level":40,"time":1676495361063,"pid":4140,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":30,"time":1676495368937,"pid":4140,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/logout"}

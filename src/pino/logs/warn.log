@@ -79,3 +79,31 @@
 {"level":40,"time":1676412856824,"pid":708,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
 {"level":40,"time":1676412909996,"pid":11980,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
 {"level":40,"time":1676412917999,"pid":11980,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":40,"time":1676494304480,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":40,"time":1676494306139,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":40,"time":1676494326416,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":40,"time":1676494334372,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":40,"time":1676494338224,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":40,"time":1676494340012,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":40,"time":1676494357982,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":40,"time":1676494359505,"pid":16260,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":40,"time":1676494597573,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/static"}
+{"level":40,"time":1676494597752,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":40,"time":1676494600164,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/public"}
+{"level":40,"time":1676494600353,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":40,"time":1676494610176,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":40,"time":1676494612318,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":40,"time":1676494614363,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/public"}
+{"level":40,"time":1676494614710,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":40,"time":1676494617063,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/public/"}
+{"level":40,"time":1676494617430,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":40,"time":1676494641734,"pid":14292,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/public"}
+{"level":40,"time":1676494642359,"pid":14292,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":40,"time":1676494644741,"pid":14292,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/public"}
+{"level":40,"time":1676494645092,"pid":14292,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":40,"time":1676494650586,"pid":14292,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/public"}
+{"level":40,"time":1676494650961,"pid":14292,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":40,"time":1676495337058,"pid":10824,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1676495353737,"pid":4140,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1676495360933,"pid":4140,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/images/"}
+{"level":40,"time":1676495361063,"pid":4140,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}

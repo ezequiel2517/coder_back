@@ -88,6 +88,9 @@ else {
     const routeInfo = require("./routers/info.js");
     app.use(routeInfo);
 
+    //Carpeta pública para fotos de perfil
+    app.use("/images", express.static(path.resolve('./public/images')));
+
     app.get("*", (req, res)=>{
         logger.warn({msg: "Acceso a ruta invalida", route: req.params[0]});
         res.redirect("/");
@@ -95,12 +98,12 @@ else {
 
     //Levantar servidor en puerto PORT
     const server = httpServer.listen(PORT, () => {
-        console.log(`Server escuchando en puerto ${server.address().port}`)
+        logger.warn({ msg: `Server escuchando en puerto ${server.address().port}` });
     })
 
     //Websockets
     io.on("connection", async (socket) => {
-        console.log("Nuevo cliente conectado.");
+        logger.warn({ msg: "Nuevo cliente conectado." });
 
         /*Cuando hay un usuario nuevo se le envian 
         los productos y mensajes (normalizados)*/

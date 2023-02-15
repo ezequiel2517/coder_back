@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "start": "node ./src/main.js -p 8070 -m FORK"
+    "start": "nodemon ./src/main.js -p 8070 -m FORK"
   },
   "repository": {
     "type": "git",
