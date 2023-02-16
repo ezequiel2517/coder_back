@@ -87,6 +87,8 @@ else {
     app.use(routeHome);
     const routeInfo = require("./routers/info.js");
     app.use(routeInfo);
+    const routeCarrito = require("./routers/carrito.js");
+    app.use(routeCarrito);
 
     //Carpeta pública para fotos de perfil
     app.use("/images", express.static(path.resolve('./public/images')));

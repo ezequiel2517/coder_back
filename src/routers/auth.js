@@ -18,7 +18,7 @@ const storage = multer.diskStorage({
         cb(null, "public");
     },
     filename: (req, file, cb) => {
-        cb(null, `/images/${req.body.nombre}_perfil${path.extname(file.originalname)}`);
+        cb(null, `/images/${req.body.username}_perfil${path.extname(file.originalname)}`);
     },
 });
 const upload = multer({ storage: storage });
@@ -74,11 +74,16 @@ routeAuth.post("/registro",
     upload.single('imagen'),
     passport.authenticate("register", { failureRedirect: "/registro-error" }),
     (req, res) => {
-        const { password, username, nombre, direccion, edad } = req.body;
+        const { password, username, nombre, direccion, edad, phone } = req.body;
         bcrypt.hash(password, 8, async (error, hash) => {
             if (error) throw error;
-            const nuevoUsuario = { username, password: hash, nombre, direccion, edad };
+            const nuevoUsuario = { username, password: hash, nombre, direccion, edad, phone };
             await usuarios.save(nuevoUsuario);
+
+            //Notificar al admin sobre un nuevo usuario
+            const nodemailer = require("../helpers/nodemailer/nodemailer.js");
+            nodemailer.notificarRegistro({ username, nombre, direccion, edad, phone });
+
             res.redirect("/home");
         })
     }

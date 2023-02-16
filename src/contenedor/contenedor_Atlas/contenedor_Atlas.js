@@ -14,6 +14,12 @@ class Contenedor_Atlas{
         const res = await modelo.findOne({[field]: value});
         return res;
     }
+
+    async findManyByField(field, value) {
+        const {default: modelo} = await import(this.model); 
+        const res = await modelo.find({[field]: value});
+        return res;
+    }
 }
 
 module.exports = Contenedor_Atlas;
