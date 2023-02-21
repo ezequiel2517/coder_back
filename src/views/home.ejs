@@ -186,9 +186,16 @@
             alias.innerHTML = data.alias;
             rowMensaje.appendChild(alias);
 
-            const avatar = document.createElement("td");
+            /*const avatar = document.createElement("td");
             avatar.innerHTML = data.avatar;
-            rowMensaje.appendChild(avatar);
+            rowMensaje.appendChild(avatar);*/
+
+            const img = document.createElement("img");
+            const img_td = document.createElement("td");
+            img.src = data.avatar;
+            img.height = "40";
+            img_td.appendChild(img);
+            rowMensaje.appendChild(img_td);
 
             const mensaje = document.createElement("td");
             mensaje.innerHTML = data.mensaje;

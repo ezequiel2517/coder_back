@@ -13,7 +13,7 @@ const mensajesSchema = new schema.Entity('posts', {
 }, { idAttribute: 'id' });
 
 //Metodo para normalizar mensajes
-const getChatNormalizer =  (mensajes) => {
+const getChatNormalizer = (mensajes) => {
     return normalize({
         id: 'mensajes',
         mensajes: mensajes,

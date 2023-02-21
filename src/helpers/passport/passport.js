@@ -6,8 +6,8 @@ const Strategy = require("passport-local");
 const bcrypt = require("bcrypt");
 
 //Persistencia de usuarios en Mongo Atlas
-const Contenedor_Atlas = require("../contenedor/contenedor_Atlas/contenedor_Atlas.js");
-const usuarios = new Contenedor_Atlas("../schemas/schemaUsuario.js");
+const contenedor_atlas = require("../../persistence/contenedor/contenedor_atlas/contenedor_atlas.js");
+const usuarios = new contenedor_atlas("./schemas/schemaUsuario.js");
 
 //Registro
 passport.use("register", new Strategy(async (username, password, done) => {

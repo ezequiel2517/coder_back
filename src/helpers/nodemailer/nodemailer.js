@@ -1,9 +1,8 @@
 const { createTransport } = require("nodemailer");
-const logger = require("../../pino/logger.js");
+const logger = require("../pino/logger.js");
 
 //dotenv para traer el mail del admin
 const dotenv = require("dotenv");
-const { array } = require("yargs");
 dotenv.config();
 
 const transporter = createTransport({
@@ -16,7 +15,7 @@ const transporter = createTransport({
 })
 
 const notificarRegistro = async ({ username, nombre, direccion, edad, phone }) => {
-    let cuerpoMensaje =      
+    let cuerpoMensaje =
         `
         <p>Nuevo usuario: ${username}</p>
         <p>Nombre: ${nombre}</p>
@@ -40,10 +39,10 @@ const notificarRegistro = async ({ username, nombre, direccion, edad, phone }) =
 const notificarCompra = async ({ nombre, phone, pedidos }) => {
     let listaPedidos = "";
     pedidos.forEach(pedido => {
-        listaPedidos+="<li>"+pedido.title+"</li>";
+        listaPedidos += "<li>" + pedido.title + "</li>";
     });
 
-    let cuerpoMensaje =      
+    let cuerpoMensaje =
         `
         <p>Nombre: ${nombre}</p>
         <p>Celular: ${phone}</p>

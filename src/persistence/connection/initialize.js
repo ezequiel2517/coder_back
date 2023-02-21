@@ -43,3 +43,8 @@ mongoose.set('strictQuery', true);
 (async () => {
     mongoose.connect(options.mongoAtlas.connectionString, { serverSelectionTimeoutMS: 5000, })
 })();
+
+const contenedor_atlas = require("../contenedor/contenedor_Atlas/contenedor_atlas.js");
+const compras = new contenedor_atlas("./schemas/schemaCompra.js");
+
+module.exports = { compras };

@@ -1,13 +1,11 @@
 const { Router } = require("express");
 const routeCarrito = new Router();
 
-//Persistencia de compras en Mongo Atlas
-const Contenedor_Atlas = require("../contenedor/contenedor_Atlas/contenedor_Atlas.js");
-const compras = new Contenedor_Atlas("../schemas/schemaCompra.js");
-
 //dotenv para manejar variables de entorno
 const dotenv = require("dotenv");
 dotenv.config();
+
+const { compras } = require("../persistence/connection/initialize");
 
 routeCarrito.get("/carrito", async (req, res) => {
     if (req.isAuthenticated())

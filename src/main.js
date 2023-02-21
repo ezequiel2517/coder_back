@@ -1,10 +1,10 @@
 //Iniciar connection SQL
-const initialize = require("./connection/initializeSQL.js");
+const initialize = require("./persistence/connection/initialize.js");
 initialize;
 
 //Persistencia de mensajes y productos
-const { sqlite3: configSQL } = require('./connection/options.js');
-const Contenedor_SQL = require('./contenedor/contenedor_sql.js');
+const { sqlite3: configSQL } = require('./persistence/connection/options.js');
+const Contenedor_SQL = require('./persistence/contenedor/contenedor_sql.js');
 const mensajes = new Contenedor_SQL("mensajes", configSQL);
 const productos = new Contenedor_SQL('productos', configSQL);
 
@@ -25,7 +25,7 @@ const cluster = require("cluster");
 const numCpu = require("os").cpus().length;
 
 //Logger de Pino
-const logger = require("./pino/logger.js");
+const logger = require("./helpers/pino/logger.js");
 
 if (cluster.isPrimary && MODO == "CLUSTER") {
     for (let i = 0; i < numCpu; i++) {
@@ -111,7 +111,7 @@ else {
         los productos y mensajes (normalizados)*/
         socket.emit("nuevo_cliente_productos", await productos.getAll());
 
-        const getChatNormalizer = require("./normalizr/mensajes.js");
+        const getChatNormalizer = require("./helpers/normalizr/mensajes.js");
         socket.emit("nuevo_cliente_chat", getChatNormalizer(await mensajes.getAll()));
 
         /*Cuando se agrega un nuevo 

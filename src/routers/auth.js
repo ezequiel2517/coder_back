@@ -1,12 +1,12 @@
-const passport = require("../passport/passport.js");
+const passport = require("../helpers/passport/passport.js");
 const { Router } = require("express");
 const routeAuth = new Router();
-const logger = require("../pino/logger.js");
+const logger = require("../helpers/pino/logger.js");
 const bcrypt = require("bcrypt");
 
 //Persistencia de usuarios en Mongo Atlas
-const Contenedor_Atlas = require("../contenedor/contenedor_Atlas/contenedor_Atlas.js");
-const usuarios = new Contenedor_Atlas("../schemas/schemaUsuario.js");
+const contenedor_atlas = require("../persistence/contenedor/contenedor_atlas/contenedor_atlas.js");
+const usuarios = new contenedor_atlas("./schemas/schemaUsuario.js");
 
 //Subir imagenes a servidor local
 const multer = require("multer");
@@ -18,7 +18,7 @@ const storage = multer.diskStorage({
         cb(null, "public");
     },
     filename: (req, file, cb) => {
-        cb(null, `/images/${req.body.username}_perfil${path.extname(file.originalname)}`);
+        cb(null, `/images/${req.body.username}${path.extname(file.originalname)}`);
     },
 });
 const upload = multer({ storage: storage });
