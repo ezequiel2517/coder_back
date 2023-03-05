@@ -36,8 +36,9 @@ const notificarRegistro = async ({ username, nombre, direccion, edad, phone }) =
     }
 };
 
-const notificarCompra = async ({ nombre, phone, pedidos }) => {
+const notificarCompra = async ( nombre, phone, pedidos ) => {
     let listaPedidos = "";
+    console.log(pedidos)
     pedidos.forEach(pedido => {
         listaPedidos += "<li>" + pedido.title + "</li>";
     });

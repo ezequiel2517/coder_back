@@ -1,4 +1,5 @@
 const logger = require("../helpers/pino/logger.js");
+const { comprarProducto } = require("../services/servicesProductos.js");
 
 getHome = async (req, res) => {
     logger.info({ msg: "Acceso a ruta", route: "/home" });
@@ -24,8 +25,7 @@ postHome = async (req, res) => {
         const { title, price } = req.body;
         const { username } = req.user;
         try {
-            const { compras } = require("../persistence/connection/initialize");
-            compras.save({ title, price, username });
+            comprarProducto(title, price, username);
             res.status(200).send(JSON.stringify({ res: "Producto agregado con éxito." }));
         }
         catch (err) {
