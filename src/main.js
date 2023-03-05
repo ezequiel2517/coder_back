@@ -2,11 +2,11 @@
 const initialize = require("./persistence/connection/initialize.js");
 initialize;
 
-//Persistencia de mensajes y productos
-const { sqlite3: configSQL } = require('./persistence/connection/options.js');
-const Contenedor_SQL = require('./persistence/contenedor/contenedor_sql.js');
-const mensajes = new Contenedor_SQL("mensajes", configSQL);
-const productos = new Contenedor_SQL('productos', configSQL);
+//Persistencia con DAOs
+const RepositoryMensajes = new require("./persistence/Repository/RepositoryMensajes.js");
+const mensajes = new RepositoryMensajes();
+const RepositoryProductos = new require("./persistence/Repository/RepositoryProductos.js");
+const productos = new RepositoryProductos();
 
 //yargs para setear puerto y modo por parametro
 const yargs = require("yargs")(process.argv.slice());
