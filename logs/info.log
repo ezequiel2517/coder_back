@@ -3182,3 +3182,652 @@
 {"level":30,"time":1678049832565,"pid":8608,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/registro"}
 {"level":40,"time":1678049832680,"pid":8608,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
 {"level":30,"time":1678049832772,"pid":8608,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678641916219,"pid":3024,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678642090507,"pid":3468,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678642100280,"pid":22768,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678642122737,"pid":26948,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678642165953,"pid":24188,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678642167644,"pid":17568,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":30,"time":1678642251410,"pid":17568,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678642251480,"pid":17568,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678642251485,"pid":17568,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678642252531,"pid":17568,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678642252535,"pid":17568,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1678642257613,"pid":17568,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678642257987,"pid":17568,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678642258090,"pid":17568,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678642258260,"pid":17568,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678642258406,"pid":17568,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678642258575,"pid":17568,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678642301935,"pid":10488,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678642301985,"pid":10488,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678642302916,"pid":10488,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678642303328,"pid":10488,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1678642310424,"pid":10488,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678642310521,"pid":10488,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678642310620,"pid":10488,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678642310796,"pid":10488,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678642310952,"pid":10488,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678642311123,"pid":10488,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1678642371652,"pid":10488,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1678642371696,"pid":10488,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678642371811,"pid":10488,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678642371894,"pid":10488,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1678642376031,"pid":10488,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678642376105,"pid":10488,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678642376195,"pid":10488,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678642376785,"pid":10488,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678642376920,"pid":10488,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678642377089,"pid":10488,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678642485619,"pid":11924,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678642485869,"pid":11924,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678642486397,"pid":11924,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678642486486,"pid":11924,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678642522281,"pid":21448,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678642522472,"pid":21448,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678642522869,"pid":21448,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678642522957,"pid":21448,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678642555360,"pid":12644,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678642555461,"pid":12644,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678642556361,"pid":12644,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678642556451,"pid":12644,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678642592999,"pid":28580,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678642593019,"pid":28580,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678642593589,"pid":28580,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678642593681,"pid":28580,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678642616846,"pid":29080,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678642616992,"pid":29080,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678642617565,"pid":29080,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678642617666,"pid":29080,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678642634387,"pid":29080,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/addproducto"}
+{"level":30,"time":1678642634479,"pid":29080,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678642634626,"pid":29080,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678642634715,"pid":29080,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678642709383,"pid":13988,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678642724423,"pid":15996,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":30,"time":1678642726467,"pid":15996,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678642726559,"pid":15996,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678642726648,"pid":15996,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678642731590,"pid":3720,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678642756212,"pid":19556,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":30,"time":1678642759609,"pid":19556,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678642759693,"pid":19556,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678642759778,"pid":19556,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678642822758,"pid":23312,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678642831930,"pid":19204,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678642869221,"pid":23968,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678642870924,"pid":3004,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678642886151,"pid":7052,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678642989981,"pid":16648,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678642992015,"pid":3448,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678642998697,"pid":28756,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":30,"time":1678643000854,"pid":28756,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678643016015,"pid":30032,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678643025000,"pid":15104,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678643076379,"pid":19124,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678643085478,"pid":12888,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678643993522,"pid":5908,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678644030132,"pid":20884,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678644573721,"pid":6368,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678644604705,"pid":13860,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678644616569,"pid":24840,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678644625509,"pid":18600,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678644655671,"pid":23612,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678645096704,"pid":18328,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678645103781,"pid":17728,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678645129968,"pid":17672,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678645144090,"pid":22676,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678645308421,"pid":16984,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":30,"time":1678645316405,"pid":16984,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678645316894,"pid":16984,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678645316982,"pid":16984,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678645326029,"pid":16984,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/api/productos-all"}
+{"level":30,"time":1678645326116,"pid":16984,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678645326196,"pid":16984,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678645326279,"pid":16984,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678645364159,"pid":11840,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678645364852,"pid":11840,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678645364946,"pid":11840,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678645365216,"pid":11840,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678645365302,"pid":11840,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678645366630,"pid":11840,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678645366727,"pid":11840,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678645455743,"pid":4860,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678645607037,"pid":27136,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678645673406,"pid":9732,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678645674707,"pid":17916,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678645681874,"pid":20328,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678645723414,"pid":11700,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678645962956,"pid":20268,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678646030434,"pid":13708,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678646040771,"pid":10608,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678646057410,"pid":26832,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678646073977,"pid":10268,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678646096181,"pid":5848,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678646161939,"pid":22056,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678646163732,"pid":12860,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678646226076,"pid":21468,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678646227800,"pid":14044,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678646232886,"pid":10420,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678646239723,"pid":26120,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678646346281,"pid":22288,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678646348528,"pid":24148,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678646365868,"pid":27144,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678646404529,"pid":7392,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678646406592,"pid":14192,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678646440580,"pid":2924,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678646461283,"pid":9876,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678646886350,"pid":9256,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678646888451,"pid":11748,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678646902307,"pid":11748,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/api/all-productos"}
+{"level":30,"time":1678646902397,"pid":11748,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678646902501,"pid":11748,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678646902584,"pid":11748,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1678646906623,"pid":11748,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678646906896,"pid":11748,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678646907008,"pid":11748,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678646907198,"pid":11748,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678646907833,"pid":11748,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678646908008,"pid":11748,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678647033763,"pid":28612,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678647033874,"pid":28612,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678647035465,"pid":15884,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678647035856,"pid":15884,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678647036051,"pid":15884,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678647036140,"pid":15884,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678647076224,"pid":26288,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678647076373,"pid":26288,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678647076787,"pid":26288,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":40,"time":1678647078529,"pid":3900,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678647078860,"pid":3900,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":30,"time":1678647079150,"pid":3900,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678647118600,"pid":11972,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678647118875,"pid":11972,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678647119395,"pid":11972,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678647119483,"pid":11972,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678647171887,"pid":1544,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678647172126,"pid":1544,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678647172463,"pid":1544,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678647172551,"pid":1544,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1678647237454,"pid":1544,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1678647237503,"pid":1544,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678647237590,"pid":1544,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678647237677,"pid":1544,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1678647241679,"pid":1544,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678647241765,"pid":1544,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678647241858,"pid":1544,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678647242259,"pid":1544,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678647242864,"pid":1544,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678647243036,"pid":1544,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678647269432,"pid":5572,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678647269624,"pid":5572,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678647270383,"pid":5572,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678647270791,"pid":5572,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678647276777,"pid":25472,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678647276846,"pid":25472,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678647277633,"pid":25472,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678647278033,"pid":25472,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678647304528,"pid":3432,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678647304733,"pid":3432,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678647305429,"pid":3432,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678647305830,"pid":3432,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678647332936,"pid":6380,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678647333263,"pid":6380,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678647333982,"pid":6380,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678647334400,"pid":6380,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678647341393,"pid":8400,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678647341469,"pid":8400,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678647342284,"pid":8400,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678647342693,"pid":8400,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678647354245,"pid":14580,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678647354367,"pid":14580,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678647355125,"pid":14580,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678647355534,"pid":14580,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678647377197,"pid":26220,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678647377466,"pid":26220,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678647378053,"pid":26220,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678647378464,"pid":26220,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678647387897,"pid":9852,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678647387962,"pid":9852,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678647388886,"pid":9852,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678647389290,"pid":9852,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678647452290,"pid":1936,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678647453871,"pid":29560,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678647453889,"pid":29560,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678647454468,"pid":29560,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678647454555,"pid":29560,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1678647459463,"pid":29560,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1678647459509,"pid":29560,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678647459591,"pid":29560,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678647459676,"pid":29560,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1678647464296,"pid":29560,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678647464376,"pid":29560,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678647464473,"pid":29560,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678647464877,"pid":29560,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678647465652,"pid":29560,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678647465821,"pid":29560,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678647712004,"pid":14928,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678647712127,"pid":14928,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678647713402,"pid":14928,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678647713490,"pid":14928,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678647747251,"pid":27832,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678647747383,"pid":27832,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678647747832,"pid":27832,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678647747920,"pid":27832,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678647797177,"pid":5620,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678647797195,"pid":5620,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678647797815,"pid":5620,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678647797905,"pid":5620,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678647876427,"pid":12956,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678647877870,"pid":12956,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678647877939,"pid":12956,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678647878033,"pid":12956,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678647944926,"pid":27500,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678647944957,"pid":27500,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678647945572,"pid":27500,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678647945661,"pid":27500,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678648029957,"pid":2764,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678648030131,"pid":2764,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678648030596,"pid":2764,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678648030689,"pid":2764,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678648036560,"pid":28632,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678648036865,"pid":28632,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678648037177,"pid":28632,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678648037274,"pid":28632,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678648056852,"pid":12768,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678648056896,"pid":12768,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678648057527,"pid":12768,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678648057621,"pid":12768,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678648121601,"pid":8384,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678648123628,"pid":26588,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678648124866,"pid":26588,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678648124932,"pid":26588,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678648125026,"pid":26588,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678648144119,"pid":12016,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678648144213,"pid":12016,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678648144728,"pid":12016,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678648144818,"pid":12016,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678648271959,"pid":9228,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678648275866,"pid":9228,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678648275931,"pid":9228,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678648276021,"pid":9228,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678648294210,"pid":22192,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678648294863,"pid":22192,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678648294925,"pid":22192,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678648295013,"pid":22192,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678648404081,"pid":11936,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678648407875,"pid":11936,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678648407944,"pid":11936,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678648408032,"pid":11936,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678648436654,"pid":22936,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678648436874,"pid":22936,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678648437242,"pid":22936,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678648437330,"pid":22936,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678648473299,"pid":21232,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678648473876,"pid":21232,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678648474147,"pid":21232,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678648474236,"pid":21232,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678648476562,"pid":23252,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678648476868,"pid":23252,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678648477319,"pid":23252,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678648477406,"pid":23252,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678648536113,"pid":7964,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678648536176,"pid":7964,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678648537251,"pid":7964,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678648537340,"pid":7964,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678648650839,"pid":15188,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678648650864,"pid":15188,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678648651740,"pid":15188,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678648651833,"pid":15188,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678648676392,"pid":28136,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678648676869,"pid":28136,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678648676996,"pid":28136,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678648677147,"pid":28136,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678648693340,"pid":23492,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678648693392,"pid":23492,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678648695060,"pid":16984,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678648695649,"pid":16984,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678648695740,"pid":16984,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678648695858,"pid":16984,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678648695952,"pid":16984,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678648696038,"pid":16984,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678648704077,"pid":25252,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678648704858,"pid":25252,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678648704949,"pid":25252,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678648705070,"pid":25252,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678648760703,"pid":6700,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678648760891,"pid":6700,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678648761434,"pid":6700,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678648761529,"pid":6700,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678648806810,"pid":17332,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678648806865,"pid":17332,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678648807561,"pid":17332,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678648807650,"pid":17332,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678648828968,"pid":28180,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678648829865,"pid":28180,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678648829926,"pid":28180,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678648830020,"pid":28180,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678648960033,"pid":1164,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678648960131,"pid":1164,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678648960706,"pid":1164,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678648960794,"pid":1164,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649117288,"pid":3936,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649120665,"pid":15380,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649122870,"pid":15380,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649122930,"pid":15380,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649123020,"pid":15380,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649160126,"pid":22984,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649160183,"pid":22984,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649162112,"pid":23200,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649162182,"pid":23200,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649162695,"pid":23200,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649162783,"pid":23200,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649165238,"pid":3352,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649165862,"pid":3352,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649165927,"pid":3352,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649166028,"pid":3352,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649188180,"pid":24084,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649188376,"pid":24084,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649188905,"pid":24084,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649188993,"pid":24084,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649219023,"pid":25932,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649219144,"pid":25932,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649219620,"pid":25932,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649219713,"pid":25932,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649239443,"pid":27128,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649239639,"pid":27128,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649240057,"pid":27128,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649240156,"pid":27128,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649266863,"pid":17372,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649267123,"pid":17372,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649267451,"pid":17372,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649267542,"pid":17372,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649292812,"pid":24796,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649292878,"pid":24796,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649293419,"pid":24796,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649293510,"pid":24796,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649323832,"pid":27180,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649323880,"pid":27180,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649324460,"pid":27180,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649324554,"pid":27180,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649401024,"pid":5360,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649401140,"pid":5360,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649401818,"pid":5360,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649401910,"pid":5360,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649430144,"pid":27596,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649430873,"pid":27596,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649430936,"pid":27596,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649431024,"pid":27596,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649446827,"pid":19208,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649446878,"pid":19208,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649447449,"pid":19208,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649447538,"pid":19208,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649487852,"pid":15800,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649487914,"pid":15800,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649488615,"pid":15800,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649488704,"pid":15800,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649511726,"pid":18308,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649511868,"pid":18308,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649512317,"pid":18308,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649512410,"pid":18308,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649538885,"pid":6772,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649540872,"pid":6772,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649540942,"pid":6772,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649541031,"pid":6772,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649552413,"pid":20424,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649552867,"pid":20424,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649552981,"pid":20424,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649553073,"pid":20424,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649654316,"pid":1968,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649654404,"pid":1968,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649655013,"pid":1968,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649655102,"pid":1968,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649754689,"pid":20128,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649754894,"pid":20128,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649755323,"pid":20128,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649755411,"pid":20128,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649771763,"pid":12688,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649771872,"pid":12688,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649772321,"pid":12688,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649772411,"pid":12688,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649787082,"pid":11940,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649787144,"pid":11940,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649787685,"pid":11940,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649787774,"pid":11940,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649818050,"pid":5024,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649818133,"pid":5024,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649818701,"pid":5024,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649818797,"pid":5024,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649830403,"pid":22764,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649830869,"pid":22764,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649831041,"pid":22764,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649831131,"pid":22764,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649874327,"pid":21792,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649874874,"pid":21792,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649874937,"pid":21792,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649875027,"pid":21792,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649892343,"pid":17240,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649892869,"pid":17240,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649892936,"pid":17240,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649893026,"pid":17240,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649898893,"pid":25632,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649899126,"pid":25632,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649899467,"pid":25632,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649899564,"pid":25632,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649911119,"pid":22132,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649911868,"pid":22132,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649911936,"pid":22132,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649912023,"pid":22132,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649918871,"pid":28900,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649919871,"pid":28900,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649919948,"pid":28900,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649920036,"pid":28900,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678649968696,"pid":20344,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678649968714,"pid":20344,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678649969367,"pid":20344,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678649969455,"pid":20344,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678650002720,"pid":8020,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678650002864,"pid":8020,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678650003299,"pid":8020,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678650003388,"pid":8020,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678650119110,"pid":20820,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678650119132,"pid":20820,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678650119773,"pid":20820,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678650119864,"pid":20820,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678650185508,"pid":18332,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678650185648,"pid":18332,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678650186147,"pid":18332,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678650186235,"pid":18332,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678650221306,"pid":21808,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678650221866,"pid":21808,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678650221929,"pid":21808,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678650222022,"pid":21808,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678650344248,"pid":4660,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678650344412,"pid":4660,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678650344874,"pid":4660,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678650344964,"pid":4660,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678650363880,"pid":2312,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678650364122,"pid":2312,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678650364476,"pid":2312,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678650364566,"pid":2312,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678650380857,"pid":10656,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678650381128,"pid":10656,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678650381446,"pid":10656,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678650381534,"pid":10656,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678650457518,"pid":28944,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678650457868,"pid":28944,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678650458247,"pid":28944,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678650458341,"pid":28944,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678650651313,"pid":18864,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678650681613,"pid":10308,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678650681881,"pid":10308,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678650682368,"pid":10308,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678650682457,"pid":10308,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678650807670,"pid":8768,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678650807731,"pid":8768,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678650808341,"pid":8768,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678650808431,"pid":8768,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678650828611,"pid":24312,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678650828865,"pid":24312,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678650829409,"pid":24312,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678650829499,"pid":24312,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678650853116,"pid":2400,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678650853145,"pid":2400,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678650853697,"pid":2400,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678650853786,"pid":2400,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678650887007,"pid":21568,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678650887863,"pid":21568,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678650887928,"pid":21568,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678650888015,"pid":21568,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678650891316,"pid":28044,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678650891384,"pid":28044,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678650891894,"pid":28044,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678650891985,"pid":28044,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678650893329,"pid":15108,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678650893871,"pid":15108,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678650893937,"pid":15108,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678650894027,"pid":15108,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678650902430,"pid":29800,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678650902874,"pid":29800,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678650903014,"pid":29800,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678650903105,"pid":29800,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678650947861,"pid":28756,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678650947927,"pid":28756,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678650948531,"pid":28756,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678650948620,"pid":28756,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678651059710,"pid":4860,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678651059874,"pid":4860,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678651061431,"pid":14920,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678651061537,"pid":14920,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678651062025,"pid":14920,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678651062115,"pid":14920,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678651090369,"pid":28392,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678651090867,"pid":28392,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678651090936,"pid":28392,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678651091022,"pid":28392,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678651094689,"pid":15696,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678651095864,"pid":15696,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678651096344,"pid":15696,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678651096433,"pid":15696,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678651284253,"pid":16004,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678651284868,"pid":16004,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678651284960,"pid":16004,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678651285052,"pid":16004,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678651297606,"pid":10096,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678651297862,"pid":10096,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678651298193,"pid":10096,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678651298280,"pid":10096,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678651394664,"pid":7028,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678651394873,"pid":7028,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678651395311,"pid":7028,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678651395400,"pid":7028,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678651414821,"pid":12340,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678651414884,"pid":12340,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678651415421,"pid":12340,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678651415511,"pid":12340,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678651438800,"pid":22756,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678651439865,"pid":22756,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678651439923,"pid":22756,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678651440012,"pid":22756,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678651497634,"pid":20328,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678651497695,"pid":20328,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678651499286,"pid":19512,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678651499868,"pid":19512,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":40,"time":1678651499874,"pid":19512,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":30,"time":1678651499963,"pid":19512,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678651504167,"pid":4808,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678651504187,"pid":4808,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678651504761,"pid":4808,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678651504853,"pid":4808,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678651510206,"pid":22976,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678651510876,"pid":22976,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678651510942,"pid":22976,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678651511066,"pid":22976,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678651524614,"pid":22268,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678651524870,"pid":22268,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678651525167,"pid":22268,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678651525257,"pid":22268,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678651529593,"pid":19560,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678651529862,"pid":19560,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678651530182,"pid":19560,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678651530270,"pid":19560,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678651588157,"pid":28756,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678651588179,"pid":28756,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678651588945,"pid":28756,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678651589039,"pid":28756,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678651632512,"pid":16900,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678651632666,"pid":16900,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678651633151,"pid":16900,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678651633241,"pid":16900,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1678651697416,"pid":16900,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1678651697463,"pid":16900,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678651697564,"pid":16900,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678651697653,"pid":16900,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1678651701844,"pid":16900,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678651701935,"pid":16900,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678651702032,"pid":16900,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678651702431,"pid":16900,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678651702863,"pid":16900,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678651703034,"pid":16900,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678651716694,"pid":5708,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678651716865,"pid":5708,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678651717625,"pid":5708,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678651718039,"pid":5708,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678651728013,"pid":14412,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678651728873,"pid":14412,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678651729245,"pid":14412,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678651729650,"pid":14412,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678651751895,"pid":24676,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678651752136,"pid":24676,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678651752825,"pid":24676,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678651753246,"pid":24676,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1678651758655,"pid":24676,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678651758770,"pid":24676,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678651758871,"pid":24676,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678651759043,"pid":24676,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678651759182,"pid":24676,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678651759350,"pid":24676,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678651765592,"pid":20792,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":30,"time":1678651766521,"pid":20792,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678651766617,"pid":20792,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678651766728,"pid":20792,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678651767129,"pid":20792,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678651767263,"pid":20792,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678651767432,"pid":20792,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1678651773523,"pid":20792,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678651773610,"pid":20792,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678651773712,"pid":20792,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678651773943,"pid":20792,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678651774473,"pid":20792,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678651774716,"pid":20792,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678651780309,"pid":28564,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678651780384,"pid":28564,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678651781323,"pid":28564,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678651781727,"pid":28564,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678651803548,"pid":11940,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678651803822,"pid":11940,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678651804700,"pid":11940,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678651805111,"pid":11940,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1678652003511,"pid":30500,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678652003862,"pid":30500,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678652004191,"pid":30500,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678652004281,"pid":30500,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678652010340,"pid":8048,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678652010385,"pid":8048,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado."}
+{"level":40,"time":1678652010957,"pid":8048,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1678652011046,"pid":8048,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":30,"time":1678652416515,"pid":8048,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1678652416563,"pid":8048,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678652416655,"pid":8048,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1678652416792,"pid":8048,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/login"}
+{"level":40,"time":1678668343998,"pid":15396,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678668379105,"pid":4112,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678668408349,"pid":9008,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678668445671,"pid":17240,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678668447964,"pid":10000,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678668468210,"pid":18216,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678668539923,"pid":15972,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678668541708,"pid":6820,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678668665973,"pid":23816,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678668682191,"pid":4976,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1678668728910,"pid":21084,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}

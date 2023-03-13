@@ -6,7 +6,7 @@ const ProductoDTO = require("../../DTOs/ProductoDTO/ProductoDTO.js");
 module.exports = class ProductoDAOSql extends IProductosDAO {
 
     constructor() {
-        if (ProductoDAOSql.instance) 
+        if (ProductoDAOSql.instance)
             return ProductoDAOSql.instance;
         super();
         this.connection = knex(configSQL);
@@ -18,16 +18,20 @@ module.exports = class ProductoDAOSql extends IProductosDAO {
         await this.connection(this.table).insert(item);
     };
 
-    async getById(id) {
-        return new ProductoDTO(await this.connection(this.table).where('id', id));
+    async getByTitle(title) {
+        const producto = await this.connection(this.table).where('title', title);
+        if (producto.length > 0)
+            return new ProductoDTO(producto);
+        else
+            return null;
     };
 
     async getAll() {
-        return (await this.connection(this.table)).map(data => new ProductoDTO(data)) ;
+        return (await this.connection(this.table)).map(data => new ProductoDTO(data));
     };
 
-    async deleteById(id) {
-        await this.connection(this.table).del().where('id', id);
+    async deleteByTitle(title) {
+        await this.connection(this.table).del().where('title', title);
     };
 
     async deleteAll() {

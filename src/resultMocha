@@ -1,0 +1,12 @@
+
+
+  Probando CRUD de Productos - CASO OK
+    ✔ Borrando todos los productos
+    ✔ Agregando producto - CASO OK (218ms)
+    ✔ Agregando producto - CASO ERROR - FORMATO INCORRECTO
+    ✔ Agregando producto - CASO ERROR - YA EXISTE
+    ✔ Borrando un producto por title - CASO OK (107ms)
+
+
+  5 passing (374ms)
+

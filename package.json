@@ -4,7 +4,8 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "start": "nodemon ./src/main.js -p 8070 -m FORK"
+    "start": "nodemon ./src/main.js -p 8070 -m FORK",
+    "test": "mocha -R spec ./src/main.test.axios.js > ./src/resultMocha 2>&1"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,7 @@
   "homepage": "https://github.com/ezequiel2517/coder_back#readme",
   "dependencies": {
     "autocannon": "^7.10.0",
+    "axios": "^1.3.4",
     "bcrypt": "^5.1.0",
     "compression": "^1.7.4",
     "connect-mongo": "^4.6.0",
@@ -41,8 +43,15 @@
     "pino": "^8.8.0",
     "pug": "^3.0.2",
     "socket.io": "^4.5.3",
+    "socket.io-client": "^4.6.1",
     "sqlite3": "^5.1.2",
     "twilio": "^4.7.2",
     "yargs": "^17.6.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3",
+    "superwstest": "^2.0.3"
   }
 }
