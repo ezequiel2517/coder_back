@@ -4,7 +4,8 @@ const RepositoryCompras = require("../persistence/Repository/RepositoryCompras.j
 const CompraDTO = require("../persistence/DTOs/CompraDTO.js");
 const compras = new RepositoryCompras();
 
-const comprarProducto = async ( { compra } ) => {
+const comprarProducto = async ({ compra }) => {
+    console.log(compra);
     const newCompra = new CompraDTO({title: compra.title, price: compra.price, username: compra.username});
     await compras.save(newCompra);
     return newCompra;

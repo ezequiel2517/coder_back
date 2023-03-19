@@ -34487,3 +34487,661 @@
 {"level":30,"time":1679206575815,"pid":14660,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo usuario agregado al sistema"}
 {"level":40,"time":1679206620964,"pid":8412,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
 {"level":40,"time":1679206627577,"pid":12356,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1679206743262,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1679206745808,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206745825,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206745830,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206745835,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206745838,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206745841,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206745844,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206745848,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206745852,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206745856,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206745860,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206745872,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206745876,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206745881,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206745890,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206745893,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206745897,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206745901,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206745904,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206745906,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206747189,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206747193,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206747199,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206747203,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206747207,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206747210,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206747216,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206747220,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206747223,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206747226,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206747232,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206747236,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206747240,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206747243,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206747248,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206747252,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206747255,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206747258,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206747261,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206748298,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206748302,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206748307,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206748311,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206748316,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206748319,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206748322,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206748324,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206748330,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206748366,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206748369,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206748372,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206748374,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206748378,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206748383,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206748387,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206748390,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206748393,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206748398,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206748402,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":30,"time":1679206750980,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1679206750985,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta","route":"/login"}
+{"level":40,"time":1679206751546,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/hme"}
+{"level":40,"time":1679206751550,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206751555,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206751560,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206751567,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206751569,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206751572,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206751575,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206751580,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206751584,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206751588,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206751591,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206751597,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206751602,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206751605,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206751608,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206751612,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206751617,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206751620,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206751622,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206752656,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206752661,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206752667,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206752671,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206752674,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206752679,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206752683,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206752688,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206752691,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206752696,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206752701,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206752704,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206752707,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206752712,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206752716,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206752719,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206752722,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206752726,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206752731,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206752736,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206757759,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206757763,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206757768,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206757771,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206757774,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206757777,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206757781,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206757784,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206757786,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206757793,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206757796,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206757800,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206757803,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206757807,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206757811,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206757815,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206757819,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206757822,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206757826,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206757830,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206787856,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206787862,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206787867,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206787871,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206787873,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206787877,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206787880,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206787884,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206787888,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206787892,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206787895,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206787899,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206787903,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206787907,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206787911,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206787915,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206787919,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206787923,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206787932,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206787936,"pid":19112,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":40,"time":1679206791168,"pid":10108,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":30,"time":1679206791843,"pid":10108,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206791989,"pid":10108,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1679206791994,"pid":10108,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1679206791997,"pid":10108,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta","route":"/login"}
+{"level":40,"time":1679206802450,"pid":19632,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1679206808367,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1679206812009,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/"}
+{"level":30,"time":1679206812026,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1679206812032,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta","route":"/login"}
+{"level":40,"time":1679206817037,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1679206817040,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1679206817043,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta","route":"/login"}
+{"level":30,"time":1679206826747,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"POST a ruta","route":"/login"}
+{"level":30,"time":1679206827210,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206827318,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679206827320,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679206827376,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/undefined"}
+{"level":40,"time":1679206827419,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1679206827511,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206827537,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/123"}
+{"level":40,"time":1679206827575,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/a21s"}
+{"level":30,"time":1679206827648,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206827691,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206827776,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679206827778,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206827781,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/sad"}
+{"level":40,"time":1679206827892,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679206827931,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206827976,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206828059,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206828144,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206828227,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206828313,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206828399,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206828483,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206828566,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206828650,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206828733,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206828817,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206828900,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206828986,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206829069,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206829153,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206829236,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206829319,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206829409,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1679206829491,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206844897,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1679206844979,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1679206848153,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206848244,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679206848244,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679206848289,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/undefined"}
+{"level":40,"time":1679206848337,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/ezequiel2517"}
+{"level":40,"time":1679206848372,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679206848418,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206848472,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/123"}
+{"level":40,"time":1679206848486,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206848567,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679206848569,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206848651,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206848683,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/a21s"}
+{"level":40,"time":1679206848705,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/sad"}
+{"level":40,"time":1679206848735,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679206848765,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206848816,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679206848893,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206848896,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206848980,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206849063,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206849154,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206849237,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206849321,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206849405,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206849491,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206849574,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206849658,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206849765,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206849850,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206849933,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206850016,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206850100,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1679206850182,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206850990,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1679206851072,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1679206855777,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206855918,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/undefined"}
+{"level":40,"time":1679206855978,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679206855979,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679206856038,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206856073,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/ezequiel2517"}
+{"level":40,"time":1679206856125,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206856146,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/123"}
+{"level":40,"time":1679206856151,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/a21s"}
+{"level":30,"time":1679206856166,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206856212,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206856297,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679206856299,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206856380,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/sad"}
+{"level":40,"time":1679206856382,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679206856426,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206856463,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206856548,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679206856558,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206856630,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206856713,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206856796,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206856879,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206856960,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206857043,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206857125,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206857210,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206857290,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206857373,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206857455,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206857536,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206857618,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206857706,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1679206857788,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1679206920718,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta","route":"/login"}
+{"level":40,"time":1679206920897,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1679206920938,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1679206920980,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta","route":"/login"}
+{"level":30,"time":1679206924293,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"POST a ruta","route":"/login"}
+{"level":30,"time":1679206924511,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206924645,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/undefined"}
+{"level":40,"time":1679206924676,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679206924677,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679206924762,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206924776,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/ezequiel2517"}
+{"level":40,"time":1679206924855,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679206924865,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206924901,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/sad"}
+{"level":40,"time":1679206924903,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/a21s"}
+{"level":40,"time":1679206924905,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/123"}
+{"level":40,"time":1679206924947,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679206924990,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206925030,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206925111,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679206925120,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206925196,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679206925248,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206925278,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206925361,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206925445,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206925528,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206925611,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206925694,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206925779,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206925862,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206925944,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206926027,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206926110,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206926193,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206926275,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206926358,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206926445,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1679206926527,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206926864,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1679206926944,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1679206933222,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206933327,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679206933328,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679206933359,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/undefined"}
+{"level":40,"time":1679206933415,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/ezequiel2517"}
+{"level":40,"time":1679206933444,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679206933499,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206933526,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/123"}
+{"level":40,"time":1679206933528,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/sad"}
+{"level":40,"time":1679206933529,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206933541,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/a21s"}
+{"level":40,"time":1679206933613,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679206933626,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206933699,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679206933762,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206933780,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206933865,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679206933897,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206933953,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206934040,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206934125,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206934209,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206934294,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206934381,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206934465,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206934550,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206934634,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206934720,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206934805,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206934891,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206934977,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206935062,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206935148,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1679206935232,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206944238,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1679206944322,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1679206946041,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206946224,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/undefined"}
+{"level":40,"time":1679206946228,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679206946229,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679206946320,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206946330,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/ezequiel2517"}
+{"level":40,"time":1679206946410,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679206946419,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206946440,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/123"}
+{"level":40,"time":1679206946442,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/sad"}
+{"level":40,"time":1679206946490,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679206946546,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206946573,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206946658,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206946676,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/a21s"}
+{"level":30,"time":1679206946679,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206946741,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679206946809,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206946827,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206946911,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206947001,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206947084,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206947167,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206947251,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206947332,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206947415,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206947496,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206947579,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206947661,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206947743,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206947825,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206947905,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206948005,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1679206948088,"pid":20592,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206974548,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1679206974688,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679206974689,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679206975216,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1679206975443,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1679206975585,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206975600,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/undefined"}
+{"level":40,"time":1679206975670,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679206975671,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679206975757,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206975779,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/ezequiel2517"}
+{"level":40,"time":1679206975843,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679206975903,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206975973,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206976110,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206976202,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/123"}
+{"level":40,"time":1679206976206,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/a21s"}
+{"level":30,"time":1679206976298,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1679206976452,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206976506,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/sad"}
+{"level":40,"time":1679206976512,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679206976607,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206976610,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206976696,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206976787,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206976877,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206976987,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206977083,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206977204,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206977297,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206977451,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206977534,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206977698,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206977834,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206977971,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206978109,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206978248,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679206978385,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1679206978523,"pid":9508,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679206996656,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1679206996775,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679206996777,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679206997304,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1679206997619,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1679207000391,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207000567,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/undefined"}
+{"level":40,"time":1679207000590,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679207000591,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679207000714,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/ezequiel2517"}
+{"level":40,"time":1679207000809,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/123"}
+{"level":40,"time":1679207000839,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/sad"}
+{"level":40,"time":1679207000940,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679207001033,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207001039,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207001093,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/a21s"}
+{"level":40,"time":1679207001124,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679207001168,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207001215,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207001299,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679207001304,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207001384,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679207001438,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207001469,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207001552,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207001635,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207001718,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207001801,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207001889,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207001972,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207002054,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207002137,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207002220,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207002306,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207002388,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207002471,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207002553,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207002650,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1679207002732,"pid":19652,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207025598,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1679207025673,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679207025674,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679207026249,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1679207026583,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1679207030246,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207030383,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/undefined"}
+{"level":40,"time":1679207030458,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679207030461,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679207030541,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207030578,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1679207030670,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207030681,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/123"}
+{"level":40,"time":1679207030718,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/a21s"}
+{"level":30,"time":1679207030804,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207030850,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679207030935,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207030938,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207030945,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/sad"}
+{"level":40,"time":1679207031029,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679207031075,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207031114,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207031200,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207031315,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207031398,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207031484,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207031567,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207031650,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207031736,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207031821,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207031905,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207031988,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207032074,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207032159,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207032244,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207032325,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207032407,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207032496,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1679207032579,"pid":11364,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207038368,"pid":11836,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1679207038472,"pid":11836,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679207038473,"pid":11836,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679207039078,"pid":11836,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1679207039390,"pid":11836,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207049228,"pid":20072,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1679207049331,"pid":20072,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679207049331,"pid":20072,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679207049861,"pid":20072,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1679207050170,"pid":20072,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207058068,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1679207058220,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679207058221,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679207058697,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/ezequiel2517"}
+{"level":30,"time":1679207059035,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1679207062661,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207062805,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/undefined"}
+{"level":40,"time":1679207062894,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679207062895,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679207062976,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207063143,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/123"}
+{"level":40,"time":1679207063145,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/sad"}
+{"level":40,"time":1679207063260,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/ezequiel2517"}
+{"level":40,"time":1679207063285,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207063372,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207063416,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/a21s"}
+{"level":40,"time":1679207063460,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679207063477,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207063545,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679207063610,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207063634,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207063720,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679207063741,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207063805,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679207063875,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207063888,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207063977,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207064063,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207064147,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207064228,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207064309,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207064390,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207064475,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207064558,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207064640,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207064721,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207064803,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207064895,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1679207064978,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1679207093034,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207093168,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/undefined"}
+{"level":40,"time":1679207093236,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679207093238,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679207093297,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207093356,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/ezequiel2517"}
+{"level":40,"time":1679207093388,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207093418,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/sad"}
+{"level":40,"time":1679207093421,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/123"}
+{"level":30,"time":1679207093439,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207093484,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679207093568,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207093570,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207093652,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/a21s"}
+{"level":40,"time":1679207093655,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679207093701,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207093740,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207093825,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679207093834,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207093910,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207093993,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207094081,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207094167,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207094251,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207094334,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207094420,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207094504,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207094588,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207094672,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207094758,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207094843,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207094927,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207095019,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1679207095101,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207147709,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/unfetch.umd.js.map"}
+{"level":30,"time":1679207147792,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207147836,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/graphiql.min.js.map"}
+{"level":30,"time":1679207147928,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207147932,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1679207148060,"pid":2520,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207193416,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"Server escuchando en puerto 8070"}
+{"level":40,"time":1679207196937,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/unfetch.umd.js.map"}
+{"level":40,"time":1679207197223,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/favicon.ico"}
+{"level":40,"time":1679207197261,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/graphiql.min.js.map"}
+{"level":30,"time":1679207197496,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1679207197631,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1679207197762,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1679207199305,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207199532,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679207199533,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679207199540,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/undefined"}
+{"level":40,"time":1679207199636,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207199653,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/ezequiel2517"}
+{"level":40,"time":1679207199719,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207199767,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/sad"}
+{"level":40,"time":1679207199769,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/a21s"}
+{"level":40,"time":1679207199772,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/123"}
+{"level":40,"time":1679207199893,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679207199977,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207199981,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207200070,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679207200113,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207200158,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207200244,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679207200249,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207200328,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679207200384,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207200418,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207200502,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207200585,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207200669,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207200752,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207200835,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207200918,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207201000,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207201081,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207201165,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207201247,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207201330,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207201418,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1679207201500,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207202516,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1679207202597,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":30,"time":1679207203975,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207204165,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/undefined"}
+{"level":40,"time":1679207204208,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679207204210,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"Nuevo cliente conectado.","route":"sockets"}
+{"level":40,"time":1679207204317,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207204324,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/ezequiel2517"}
+{"level":40,"time":1679207204398,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679207204409,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207204431,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/123"}
+{"level":40,"time":1679207204460,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/a21s"}
+{"level":40,"time":1679207204481,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679207204541,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207204563,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207204648,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207204655,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/sad"}
+{"level":30,"time":1679207204675,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207204734,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":30,"time":1679207204811,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207204819,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207204906,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207204990,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207205075,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207205161,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207205244,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207205326,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207205408,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207205491,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207205573,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207205657,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207205739,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207205822,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207205906,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/images/home"}
+{"level":40,"time":1679207206002,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1679207206088,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}
+{"level":40,"time":1679207210339,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"GET a ruta invalida","route":"/favicon.ico"}
+{"level":30,"time":1679207210420,"pid":1276,"hostname":"LAPTOP-6KJDOQ12","msg":"Acceso a ruta","route":"/home"}

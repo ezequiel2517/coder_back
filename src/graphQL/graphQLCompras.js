@@ -1,6 +1,6 @@
 const { graphqlHTTP } = require("express-graphql");
 const { buildSchema } = require("graphql");
-const { comprarProducto } = require("../services/servicesProductos.js");
+const { carritoUsuario, comprarProducto} = require("../services/servicesProductos.js");
 
 const schema = new buildSchema(`
     type Compra {
@@ -15,12 +15,17 @@ const schema = new buildSchema(`
         username: String
     }
 
+    type Query {
+        getCompras(username: String) : [Compra]
+    }
+
     type Mutation {
         saveCompra(compra: compraInput) : Compra
     }
 `);
 
 const rootValue = {
+    getCompras: carritoUsuario,
     saveCompra: comprarProducto
 }
 

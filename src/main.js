@@ -97,7 +97,7 @@ else {
 
     app.get("*", (req, res)=>{
         logger.warn({msg: "GET a ruta invalida", route: req.params[0]});
-        res.redirect("/");
+        res.redirect("home");
     });
 
     //Levantar servidor en puerto PORT
