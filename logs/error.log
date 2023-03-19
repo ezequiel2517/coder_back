@@ -12,3 +12,4 @@
 {"level":50,"time":1679180868162,"pid":8184,"hostname":"LAPTOP-6KJDOQ12","msg":{"code":"ERR_HTTP_HEADERS_SENT"},"route":"/registro"}
 {"level":50,"time":1679180895454,"pid":5208,"hostname":"LAPTOP-6KJDOQ12","msg":{"code":"ERR_HTTP_HEADERS_SENT"},"route":"/registro"}
 {"level":50,"time":1679181214135,"pid":1680,"hostname":"LAPTOP-6KJDOQ12","msg":{"code":"ERR_HTTP_HEADERS_SENT"},"route":"/registro"}
+{"level":50,"time":1679192020227,"pid":2996,"hostname":"LAPTOP-6KJDOQ12","msg":{},"route":"RepositoryUsuarios"}

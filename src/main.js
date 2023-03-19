@@ -2,12 +2,6 @@
 const initialize = require("./persistence/connection/initialize.js");
 initialize;
 
-//Persistencia con DAOs
-const RepositoryMensajes = new require("./persistence/Repository/RepositoryMensajes.js");
-const mensajes = new RepositoryMensajes();
-const RepositoryProductos = new require("./persistence/Repository/RepositoryProductos.js");
-const productos = new RepositoryProductos();
-
 //yargs para setear puerto y modo por parametro
 const yargs = require("yargs")(process.argv.slice());
 const { puerto: PORT, modo: MODO } = yargs
@@ -37,7 +31,6 @@ else {
     const express = require("express");
     const app = express();
     const { Server: HttpServer } = require("http");
-    const { Server: ioServer } = require("socket.io");
 
     //Para poder usar JSON
     app.use(express.json());
@@ -49,7 +42,10 @@ else {
 
     //Configuracion de websockets
     const httpServer = new HttpServer(app);
+    //Websockets
+    const { Server: ioServer } = require("socket.io");
     const io = new ioServer(httpServer);
+    module.exports = { io };
 
     //Configuracion para sesiones de usuarios
     const cookieParser = require("cookie-parser");
@@ -96,7 +92,7 @@ else {
     app.use("/images", express.static(path.resolve('./public/images')));
 
     app.get("*", (req, res)=>{
-        logger.warn({msg: "Acceso a ruta invalida", route: req.params[0]});
+        logger.warn({msg: "GET a ruta invalida", route: req.params[0]});
         res.redirect("/");
     });
 
@@ -105,27 +101,7 @@ else {
         logger.warn({ msg: `Server escuchando en puerto ${server.address().port}` });
     })
 
-    //Websockets
-    io.on("connection", async (socket) => {
-        logger.warn({ msg: "Nuevo cliente conectado." });
-
-        /*Cuando hay un usuario nuevo se le envian 
-        los productos y mensajes (normalizados)*/
-        socket.emit("nuevo_cliente_productos", await productos.getAll());
-
-        const getChatNormalizer = require("./helpers/normalizr/mensajes.js");
-        socket.emit("nuevo_cliente_chat", getChatNormalizer(await mensajes.getAll()));
-
-        /*Cuando se agrega un nuevo 
-        usuario o mensaje se persiste*/
-        socket.on("addProducto", (data) => {
-            productos.save(data);
-            io.sockets.emit("newProducto", data);
-        });
-
-        socket.on("addMensaje", (data) => {
-            mensajes.save(data);
-            io.sockets.emit("newMensaje", data);
-        });
-    });
+    //WebSockets
+    require("./sockets/socketsMensaje.js");
+    require("./sockets/socketsProductos.js");
 }

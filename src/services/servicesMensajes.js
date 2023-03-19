@@ -1,7 +1,7 @@
-//Normalizr
 const { normalize, schema } = require('normalizr');
+const RepositoryMensajes = require("../persistence/Repository/RepositoryMensajes.js");
+const mensajes = new RepositoryMensajes();
 
-//Schemas para normalizar
 const autorSchema = new schema.Entity('autor', {}, { idAttribute: 'email' });
 
 const mensajeSchema = new schema.Entity('post', {
@@ -12,12 +12,15 @@ const mensajesSchema = new schema.Entity('posts', {
     mensajes: [mensajeSchema]
 }, { idAttribute: 'id' });
 
-//Metodo para normalizar mensajes
-const getChatNormalizer = (mensajes) => {
+const obtenerMensajes = async () => {
     return normalize({
         id: 'mensajes',
-        mensajes: mensajes,
+        mensajes: await mensajes.getAll(),
     }, mensajesSchema);
 };
 
-module.exports = getChatNormalizer;
+const guardarMensaje = async (mensaje) => {
+    await mensajes.save(mensaje);
+};
+
+module.exports = { guardarMensaje, obtenerMensajes };

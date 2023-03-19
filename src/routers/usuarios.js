@@ -4,8 +4,8 @@ const { Router } = require("express");
 const routeUsuarios = new Router();
 
 //Registro
-routeUsuarios.get("/registro", isLogged, getRegistro);
-routeUsuarios.post("/registro", isLogged, subirImagen, postRegistro);
-routeUsuarios.get("/registro-error", isLogged, getRegistroError);
+routeUsuarios.get("/registro", getRegistro);
+routeUsuarios.post("/registro", subirImagen, postRegistro);
+routeUsuarios.get("/registro-error", getRegistroError);
 
 module.exports = routeUsuarios;

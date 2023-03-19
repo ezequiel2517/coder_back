@@ -1,6 +1,6 @@
-//Persistencia de usuarios en Mongo Atlas
-const contenedor_atlas = require("../persistence/contenedor/contenedor_atlas/contenedor_atlas.js");
-const usuarios = new contenedor_atlas("./schemas/schemaUsuario.js");
+const RepositoryUsuarios = require("../persistence/Repository/RepositoryUsuarios.js");
+const usuarios = new RepositoryUsuarios();
+
 const bcrypt = require("bcrypt");
 
 const registrarUsuario = async (username, password, nombre, direccion, edad, phone) => {
@@ -15,4 +15,8 @@ const registrarUsuario = async (username, password, nombre, direccion, edad, pho
     });
 };
 
-module.exports = { registrarUsuario };
+const obtenerUsuario = async (username) => {
+    return await usuarios.get(username)
+};
+
+module.exports = { registrarUsuario, obtenerUsuario };

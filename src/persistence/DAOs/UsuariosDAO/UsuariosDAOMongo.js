@@ -1,6 +1,7 @@
 const IUsuariosDAO = require("./IUsuariosDAO");
 const UsuarioDTO = require("../../DTOs/UsuarioDTO.js");
 const mongoose = require("mongoose");
+
 const usuarioSchema = new mongoose.Schema({
     username: { type: String },
     password: { type: String },
@@ -20,8 +21,7 @@ module.exports = class UsuariosDAOMongo extends IUsuariosDAO {
     };
 
     async save(user) {
-        const { username, password, nombre, direccion, edad, phone } = user;
-        const nuevoUsuario = new UsuarioDTO(username, password, nombre, direccion, edad, phone);
+        const nuevoUsuario = new UsuarioDTO(user);
         const modelo = this.model;
         const nuevoItem = new modelo(nuevoUsuario);
         await nuevoItem.save();
@@ -31,7 +31,7 @@ module.exports = class UsuariosDAOMongo extends IUsuariosDAO {
     async get(username) {
         const modelo = this.model;
         const res = await modelo.findOne({ username: username });
-        const resUsuario = new UsuarioDTO(res.username, res.password, res.nombre, res.direccion, res.edad, res.phone);
+        const resUsuario = new UsuarioDTO(res);
         return resUsuario;
     };
 };

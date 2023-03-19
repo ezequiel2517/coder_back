@@ -1,17 +1,11 @@
 const passport = require("passport");
 const Strategy = require("passport-local");
 const bcrypt = require("bcrypt");
-
-//Persistencia de usuarios en Mongo Atlas
-const UsuariosRepository = require("../../persistence/Repository/RepositoryUsuarios.js");
-const usuarios = new UsuariosRepository();
-
-const { registrarUsuario } = require("../../services/servicesUsuarios.js")
-
+const { registrarUsuario, obtenerUsuario } = require("../../services/servicesUsuarios.js")
 
 //Registro
 passport.use("registro", new Strategy({ passReqToCallback: true }, async (req, username, password, done) => {
-    const usuarioExiste = await usuarios.get(username);
+    const usuarioExiste = await obtenerUsuario(username);
     if (!usuarioExiste) {
         const { nombre, direccion, edad, phone } = req.body;
         await registrarUsuario(username, password, nombre, direccion, edad, phone)
@@ -24,7 +18,7 @@ passport.use("registro", new Strategy({ passReqToCallback: true }, async (req, u
 
 //Login
 passport.use("login", new Strategy(async (username, password, done) => {
-    const usuarioExiste = await usuarios.get(username);
+    const usuarioExiste = await obtenerUsuario(username);
 
     if (usuarioExiste)
         bcrypt.compare(password, usuarioExiste.password, (error, res) => {
@@ -38,13 +32,12 @@ passport.use("login", new Strategy(async (username, password, done) => {
         done(null, false);
 }));
 
-//Serializar y deserealizar usuarios
 passport.serializeUser((user, done) => {
     done(null, user.username);
 })
 
 passport.deserializeUser(async (username, done) => {
-    const user = await usuarios.get(username);
+    const user = await obtenerUsuario(username);
     done(null, user);
 })
 

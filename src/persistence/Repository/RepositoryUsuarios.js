@@ -19,7 +19,7 @@ module.exports = class RepositoryUsuarios {
 
     async get(username) {
         try {
-            return this.dao.get(username);
+            return await this.dao.get(username);
         } catch (error) {
             logger.error({ msg: error, route: "RepositoryUsuarios" });
         }

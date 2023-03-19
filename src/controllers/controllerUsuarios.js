@@ -2,6 +2,7 @@ const logger = require("../helpers/pino/logger.js");
 const passport = require("../helpers/passport/passport.js");
 const multer = require("multer");
 const path = require('path');
+
 const storage = multer.diskStorage({
     destination: (req, file, cb) => {
         cb(null, "public");
@@ -10,6 +11,7 @@ const storage = multer.diskStorage({
         cb(null, `/images/${req.body.username}${path.extname(file.originalname)}`);
     },
 });
+
 const upload = multer({ storage: storage });
 
 const subirImagen = (req, res, next)=>{
