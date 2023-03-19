@@ -9,16 +9,14 @@ module.exports = class RepositoryProductos {
         this.dao = new FactoryProductosDAO().getProductosDAO("SQL");
     };
 
-    async save(item) {
+    async save({ producto }) {
         try {
-            if (await this.dao.getByTitle(item.title))
-                throw new Error("Ya existe un producto con el mismo title.");
-            const producto = new ProductoDTO(item);
-            await this.dao.save(producto);
-            return item;
+            const newProducto = new ProductoDTO(producto);
+            await this.dao.save(newProducto);
+            return newProducto;
         }
         catch (err) {
-            throw new Error(err.msg);
+            logger.error({ msg: err, route: "RepositoryProductos" });
         }
     };
 

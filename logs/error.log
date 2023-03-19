@@ -13,3 +13,6 @@
 {"level":50,"time":1679180895454,"pid":5208,"hostname":"LAPTOP-6KJDOQ12","msg":{"code":"ERR_HTTP_HEADERS_SENT"},"route":"/registro"}
 {"level":50,"time":1679181214135,"pid":1680,"hostname":"LAPTOP-6KJDOQ12","msg":{"code":"ERR_HTTP_HEADERS_SENT"},"route":"/registro"}
 {"level":50,"time":1679192020227,"pid":2996,"hostname":"LAPTOP-6KJDOQ12","msg":{},"route":"RepositoryUsuarios"}
+{"level":50,"time":1679206555900,"pid":14660,"hostname":"LAPTOP-6KJDOQ12","msg":{},"route":"RepositoryUsuarios"}
+{"level":50,"time":1679206574447,"pid":14660,"hostname":"LAPTOP-6KJDOQ12","msg":"Ocurrió un error al enviar el mensaje"}
+{"level":50,"time":1679206574450,"pid":14660,"hostname":"LAPTOP-6KJDOQ12","msg":"Ocurrió un error al enviar el mensaje"}

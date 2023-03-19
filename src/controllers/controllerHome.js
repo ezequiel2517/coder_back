@@ -12,7 +12,7 @@ getHome = async (req, res) => {
 
         res.render("home",
             {
-                usuario: req.user.username.toUpperCase(),
+                usuario: req.user.username,
                 perfil: `http://localhost:${req.socket.localPort}/images/${perfil}`
             })
     }

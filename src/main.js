@@ -87,6 +87,10 @@ else {
     app.use(routeCarrito);
     const routeUsuarios = require("./routers/usuarios.js");
     app.use(routeUsuarios);
+    
+    //GraphQL
+    app.use("/productos", require("./graphQL/graphQLProductos.js"));
+    app.use("/compras", require("./graphQL/graphQLCompras.js"));
 
     //Carpeta pública para fotos de perfil
     app.use("/images", express.static(path.resolve('./public/images')));

@@ -7,13 +7,12 @@ const { notificarCompra } = require("../services/servicesAlerts.js");
 
 const getCarrito = async (req, res) => {
     if (req.isAuthenticated())
-        res.render("carrito", { productos: await carritoUsuario(req.user.username) });
+        res.render("carrito", { productos: await carritoUsuario({ username: req.user.username }) });
     else
         res.redirect("/login");
 }
 
 const postCarrito = async (req, res) => {
-    //Notificar al admin sobre un nuevo pedido
     const pedidos = await carritoUsuario(req.user.username);
     const { nombre, phone } = req.user;
     notificarCompra( nombre, phone, pedidos );

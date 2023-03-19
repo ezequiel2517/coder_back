@@ -1,18 +1,22 @@
 const RepositoryProductos = require("../persistence/Repository/RepositoryProductos.js");
 const productos = new RepositoryProductos();
 const RepositoryCompras = require("../persistence/Repository/RepositoryCompras.js");
+const CompraDTO = require("../persistence/DTOs/CompraDTO.js");
 const compras = new RepositoryCompras();
 
-const comprarProducto = (title, price, username) => {
-    compras.save({ title, price, username });
+const comprarProducto = async ( { compra } ) => {
+    const newCompra = new CompraDTO({title: compra.title, price: compra.price, username: compra.username});
+    await compras.save(newCompra);
+    return newCompra;
 };
 
-const carritoUsuario = async (username) => {
+const carritoUsuario = async ({ username }) => {
+    console.log(username);
     return await compras.get(username);
 };
 
 const agregarProducto = async (producto) => {
-    await productos.save(producto);
+    return await productos.save(producto);
 }
 
 const obtenerProductos = async () => {

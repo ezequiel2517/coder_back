@@ -151,7 +151,6 @@
 
         }
 
-        //Esquemas mensajes
         const autorSchema = new normalizr.schema.Entity('autor', {}, { idAttribute: 'email' });
 
         const mensajeSchema = new normalizr.schema.Entity('post', {
@@ -210,11 +209,30 @@
             const price = document.querySelector("#price").value;
             const thumbnail = document.querySelector("#thumbnail").value;
 
-            socket.emit("addProducto", {
-                title,
-                price,
-                thumbnail,
+            fetch("/productos", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+            },
+            body: JSON.stringify(
+                {
+                query: `
+                    mutation{
+                        saveProducto(producto: {
+                            title: "${title}"
+                            price: ${price}
+                            thumbnail: "${thumbnail}"
+                        }), {
+                            title
+                            price
+                            thumbnail
+                        }
+                    }
+                `
+                })
             })
+            .then((response) => response.json())
+            .then((json) => renderProducto(json.data.saveProducto));
 
             return false;
         }
@@ -245,25 +263,52 @@
             const title = event.target.parentElement.parentElement.firstChild.innerText;
             const price = event.target.parentElement.parentElement.children[1].innerText;
 
-            fetch("/home", {
-                method: "POST",
-                body: JSON.stringify({
-                    title,
-                    price
-                }),
-                headers: {
-                    "Content-type": "application/json; charset=UTF-8"
-                }
+            fetch("/compras", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+            },
+            body: JSON.stringify(
+                {
+                query: `
+                    mutation{
+                        saveCompra(compra: {
+                            title: "${title}"
+                            price: ${price}
+                            username: "<%= usuario %>"
+                        }), {
+                            title
+                            price
+                            username
+                        }
+                    }
+                `
+                })
             })
-                .then((response) => response.json())
-                .then((json) => console.log(json));
+            .then((response) => response.json())
+            .then((json) => console.log(`Producto agregado al carrito: ${json.data}`));
         }
 
-        socket.on("nuevo_cliente_productos", (productos) => {
-            productos.forEach(producto => {
-                renderProducto(producto);
-            })
-        });
+        fetch("/productos", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+            },
+            body: JSON.stringify(
+                {
+                query: `
+                    query{
+                        getProductos {
+                            title
+                            price
+                            thumbnail
+                        }
+                    }
+                `
+                })
+        })
+        .then((response) => response.json())
+        .then((json) => console.log(json.data.getProductos.forEach(producto => renderProducto(producto))));
 
         socket.on("nuevo_cliente_chat", (chat) => {
             /*Quito de forma temporal la información 
@@ -277,10 +322,6 @@
             mensajesDesnormalizados.mensajes.forEach(mensaje => {
                 renderMensaje(mensaje);
             })
-        });
-
-        socket.on("newProducto", producto => {
-            renderProducto(producto);
         });
 
         socket.on("newMensaje", mensaje => {
