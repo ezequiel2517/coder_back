@@ -1,25 +1,37 @@
 const logger = require("../helpers/pino/logger.js");
-const { registrarUsuario } = require("../services/servicesUsuarios.js");
+const passport = require("../helpers/passport/passport.js");
 
-const getRaiz = (req, res) => {
+const isLogged = (req, res, next) => {
     req.isAuthenticated()
         ?
-        res.redirect("/home")
-        :
-        res.redirect("/login");
-}
-
-const getLogin = (req, res) => {
-    logger.info({ msg: "Acceso a ruta", route: "/login" });
-    req.isAuthenticated()
-        ?
-        res.redirect("/home")
+        next()
         :
         res.sendFile(process.cwd() + "/public/login.html");
-}
+};
+
+const getLogin = (req, res) => {
+    if (req.isAuthenticated()) {
+        res.redirect("/home");
+    }
+    logger.info({ msg: "GET a ruta", route: req.route.path });
+    res.sendFile(process.cwd() + "/public/login.html");
+};
+
+const getLoginError = (req, res) => {
+    logger.info({ msg: "GET a ruta", route: req.route.path });
+    res.sendFile(process.cwd() + "/public/login-error.html");
+};
+
+const postLogin = (req, res, next) => {
+    logger.info({ msg: "POST a ruta", route: req.route.path });
+    passport.authenticate("login", {
+        successRedirect: "/home",
+        failureRedirect: "/login-error",
+    })(req, res, next);
+};
 
 const getLogout = async (req, res) => {
-    logger.info({ msg: "Acceso a ruta", route: "/logout" });
+    logger.info({ msg: "GET a ruta", route: req.route.pat });
     if (req.isAuthenticated()) {
         const usuario = req.user.username.toUpperCase();
         await req.session.destroy();
@@ -28,36 +40,6 @@ const getLogout = async (req, res) => {
     else {
         res.sendFile(process.cwd() + "/public/login.html");
     }
-}
+};
 
-const getRegistro = (req, res) => {
-    logger.info({ msg: "Acceso a ruta", route: "/registro" });
-    req.isAuthenticated()
-        ?
-        res.redirect("/home")
-        :
-        res.sendFile(process.cwd() + "/public/registro.html");
-}
-
-const postRegistro = (req, res) => {
-    const { password, username, nombre, direccion, edad, phone } = req.body;
-    try {
-        registrarUsuario(username, password, nombre, direccion, edad, phone);
-        res.redirect("/home");
-    }
-    catch (err) {
-        logger.error({ msg: err, route: "/registro" });
-    }
-}
-
-const getLoginError = (req, res) => {
-    logger.info({ msg: "Acceso a ruta", route: "/login.error" });
-    res.sendFile(process.cwd() + "/public/login-error.html");
-}
-
-const getRegistroError = (req, res) => {
-    logger.info({ msg: "Acceso a ruta", route: "/registro-error" });
-    res.sendFile(process.cwd() + "/public/registro-error.html");
-}
-
-module.exports = { getRaiz, getLogin, getLogout, getRegistro, postRegistro, getLoginError, getRegistroError };
+module.exports = { isLogged, getLogin, getLoginError, postLogin, getLogout };

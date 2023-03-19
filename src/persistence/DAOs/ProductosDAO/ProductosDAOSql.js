@@ -1,7 +1,7 @@
 const IProductosDAO = require("./IProductosDAO.js");
 const { sqlite3: configSQL } = require('../../connection/options.js');
 const knex = require('knex');
-const ProductoDTO = require("../../DTOs/ProductoDTO/ProductoDTO.js");
+const ProductoDTO = require("../../DTOs/ProductoDTO.js");
 
 module.exports = class ProductoDAOSql extends IProductosDAO {
 

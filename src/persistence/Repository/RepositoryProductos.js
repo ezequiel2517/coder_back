@@ -1,5 +1,5 @@
 const FactoryProductosDAO = require("../DAOs/ProductosDAO/FactoryProductosDAO.js");
-const ProductoDTO = require("../DTOs/ProductoDTO/ProductoDTO.js");
+const ProductoDTO = require("../DTOs/ProductoDTO.js");
 
 module.exports = class RepositoryProductos {
     constructor() {

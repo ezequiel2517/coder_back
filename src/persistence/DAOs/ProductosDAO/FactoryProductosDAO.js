@@ -1,7 +1,6 @@
 const ProductosDAOSql = require("./ProductosDAOSql.js");
 
 module.exports = class FactoryProductosDAO {
-
     constructor() {
         if (FactoryProductosDAO.instance)
             return FactoryProductosDAO.instance;
@@ -13,7 +12,6 @@ module.exports = class FactoryProductosDAO {
             case "SQL":
                 return new ProductosDAOSql();
                 break;
-
             default:
                 break;
         }

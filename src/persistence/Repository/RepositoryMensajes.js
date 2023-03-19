@@ -1,5 +1,5 @@
 const FactoryMensajesDAO = require("../DAOs/MensajesDAO/FactoryMensajesDAO");
-const MensajeDTO = require("../DTOs/MensajeDTO/MensajeDTO");
+const MensajeDTO = require("../DTOs/MensajeDTO");
 
 module.exports = class RepositoryMensajes {
     constructor() {

@@ -3,8 +3,7 @@ const contenedor_atlas = require("../persistence/contenedor/contenedor_atlas/con
 const usuarios = new contenedor_atlas("./schemas/schemaUsuario.js");
 const bcrypt = require("bcrypt");
 
-const registrarUsuario = (username, password, nombre, direccion, edad, phone) => {
-
+const registrarUsuario = async (username, password, nombre, direccion, edad, phone) => {
     bcrypt.hash(password, 8, async (error, hash) => {
         if (error) throw error;
         const nuevoUsuario = { username, password: hash, nombre, direccion, edad, phone };

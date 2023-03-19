@@ -6,3 +6,9 @@
 {"level":50,"time":1678049089089,"pid":4948,"hostname":"LAPTOP-6KJDOQ12","msg":"Ocurrió un error al enviar el mensaje"}
 {"level":50,"time":1678049177808,"pid":564,"hostname":"LAPTOP-6KJDOQ12","msg":"Ocurrió un error al enviar el mensaje"}
 {"level":50,"time":1678049177809,"pid":564,"hostname":"LAPTOP-6KJDOQ12","msg":"Ocurrió un error al enviar el mensaje"}
+{"level":50,"time":1679179982571,"pid":6840,"hostname":"LAPTOP-6KJDOQ12","msg":{"code":"ERR_HTTP_HEADERS_SENT"},"route":"/registro"}
+{"level":50,"time":1679180162269,"pid":16740,"hostname":"LAPTOP-6KJDOQ12","msg":{"code":"ERR_HTTP_HEADERS_SENT"},"route":"/registro"}
+{"level":50,"time":1679180202546,"pid":1884,"hostname":"LAPTOP-6KJDOQ12","msg":{"code":"ERR_HTTP_HEADERS_SENT"},"route":"/registro"}
+{"level":50,"time":1679180868162,"pid":8184,"hostname":"LAPTOP-6KJDOQ12","msg":{"code":"ERR_HTTP_HEADERS_SENT"},"route":"/registro"}
+{"level":50,"time":1679180895454,"pid":5208,"hostname":"LAPTOP-6KJDOQ12","msg":{"code":"ERR_HTTP_HEADERS_SENT"},"route":"/registro"}
+{"level":50,"time":1679181214135,"pid":1680,"hostname":"LAPTOP-6KJDOQ12","msg":{"code":"ERR_HTTP_HEADERS_SENT"},"route":"/registro"}

@@ -1,10 +1,9 @@
 const IMensajesDAO = require("./IMensajesDAO.js");
 const { sqlite3: configSQL } = require('../../connection/options.js');
 const knex = require('knex');
-const MensajeDTO = require("../../DTOs/MensajeDTO/MensajeDTO.js");
+const MensajeDTO = require("../../DTOs/MensajeDTO.js");
 
 module.exports = class MensajesDAOSql extends IMensajesDAO {
-
     constructor() {
         if (MensajesDAOSql.instance) 
             return MensajesDAOSql.instance;

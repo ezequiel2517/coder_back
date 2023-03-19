@@ -1,19 +1,20 @@
-//Importo passport
 const passport = require("passport");
 const Strategy = require("passport-local");
-
-//Import bcrypt para encriptacion
 const bcrypt = require("bcrypt");
 
 //Persistencia de usuarios en Mongo Atlas
-const contenedor_atlas = require("../../persistence/contenedor/contenedor_atlas/contenedor_atlas.js");
-const usuarios = new contenedor_atlas("./schemas/schemaUsuario.js");
+const UsuariosRepository = require("../../persistence/Repository/RepositoryUsuarios.js");
+const usuarios = new UsuariosRepository();
+
+const { registrarUsuario } = require("../../services/servicesUsuarios.js")
+
 
 //Registro
-passport.use("register", new Strategy(async (username, password, done) => {
-    const usuarioExiste = await usuarios.findByField("username", username);
-
+passport.use("registro", new Strategy({ passReqToCallback: true }, async (req, username, password, done) => {
+    const usuarioExiste = await usuarios.get(username);
     if (!usuarioExiste) {
+        const { nombre, direccion, edad, phone } = req.body;
+        await registrarUsuario(username, password, nombre, direccion, edad, phone)
         done(null, { username, password });
     }
     else {
@@ -23,7 +24,7 @@ passport.use("register", new Strategy(async (username, password, done) => {
 
 //Login
 passport.use("login", new Strategy(async (username, password, done) => {
-    const usuarioExiste = await usuarios.findByField("username", username);
+    const usuarioExiste = await usuarios.get(username);
 
     if (usuarioExiste)
         bcrypt.compare(password, usuarioExiste.password, (error, res) => {
@@ -43,7 +44,7 @@ passport.serializeUser((user, done) => {
 })
 
 passport.deserializeUser(async (username, done) => {
-    const user = await usuarios.findByField("username", username);
+    const user = await usuarios.get(username);
     done(null, user);
 })
 
